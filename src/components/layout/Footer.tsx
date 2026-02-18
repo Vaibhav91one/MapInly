@@ -82,7 +82,7 @@ export default function Footer() {
                 <PillButton
                   text="Get Started"
                   icon={<ArrowRight className="size-5" />}
-                  href="/auth/signup"
+                  href="/auth"
                   className="bg-white text-fern"
                 />
               </div>

@@ -1,47 +1,531 @@
 {
   "files": {
-    "app/auth/login/page.tsx": {
+    "app/auth/page.tsx": {
       "scopes": {
-        "6/declaration/body/4/argument-title": {
-          "type": "attribute",
+        "10/declaration/body/5/argument/1/11/3": {
+          "type": "element",
+          "hash": "6cd6ca689940647b8676f5ece51700ec",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover events on the map, join communities, and connect with people near you."
+        },
+        "10/declaration/body/5/argument/1/13/3": {
+          "type": "element",
+          "hash": "1e4433387344eda1a0ae1cf8db865fdc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Find your people.<element:br></element:br> Shape your world."
+        },
+        "10/declaration/body/5/argument/1/3/1/1/1": {
+          "type": "element",
+          "hash": "3180ad6b8de344b781637750259e0f53",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome"
+        },
+        "10/declaration/body/5/argument/1/3/1/1/3": {
+          "type": "element",
+          "hash": "df49098049f42ebef8393621f17c4ac0",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign in with your preferred provider to continue"
+        },
+        "10/declaration/body/5/argument/1/3/1/3/3/1": {
+          "type": "element",
+          "hash": "749052c5252df271b5f585e252ef4fc4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:GoogleIcon></element:GoogleIcon> Continue with Google"
+        },
+        "10/declaration/body/5/argument/1/3/1/3/3/1/3": {
+          "type": "element",
+          "hash": "f84b1b8574fb23734c002b401cad49e2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign in with Google"
+        },
+        "10/declaration/body/5/argument/1/3/1/3/3/3": {
+          "type": "element",
+          "hash": "c6e0654016b4d1ba49058ea6b9e90594",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:GitHubIcon></element:GitHubIcon> Continue with GitHub"
+        },
+        "10/declaration/body/5/argument/1/3/1/3/3/3/3": {
+          "type": "element",
+          "hash": "0208d355f231c386b19390f0bea41b95",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "OR"
+        },
+        "10/declaration/body/5/argument/1/3/1/3/3/5/3": {
+          "type": "element",
+          "hash": "4b5b7b9164178eb3ba3900435b7a33d4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign in with GitHub"
+        },
+        "10/declaration/body/5/argument/1/7/3": {
+          "type": "element",
+          "hash": "6cd6ca689940647b8676f5ece51700ec",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover events on the map, join communities, and connect with people near you."
+        },
+        "10/declaration/body/5/argument/1/9/3": {
+          "type": "element",
+          "hash": "6cd6ca689940647b8676f5ece51700ec",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover events on the map, join communities, and connect with people near you."
+        },
+        "12/declaration/body/5/argument/1/13/3": {
+          "type": "element",
+          "hash": "1e4433387344eda1a0ae1cf8db865fdc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Find your people.<element:br></element:br> Shape your world."
+        },
+        "12/declaration/body/5/argument/1/13/3/1": {
+          "type": "element",
+          "hash": "f1e405432e8a07d3bceef0839c6fc755",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Find your people."
+        },
+        "12/declaration/body/5/argument/1/13/3/5": {
+          "type": "element",
+          "hash": "248f4e6642442acb93189fc4bf243b19",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Shape your world."
+        },
+        "12/declaration/body/5/argument/1/3/1/1/1": {
+          "type": "element",
+          "hash": "3180ad6b8de344b781637750259e0f53",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome"
+        },
+        "12/declaration/body/5/argument/1/3/1/1/1/1": {
+          "type": "element",
+          "hash": "3180ad6b8de344b781637750259e0f53",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome"
+        },
+        "12/declaration/body/5/argument/1/3/1/1/3": {
+          "type": "element",
+          "hash": "df49098049f42ebef8393621f17c4ac0",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign in with your preferred provider to continue"
+        },
+        "12/declaration/body/5/argument/1/3/1/1/3/1": {
+          "type": "element",
+          "hash": "308aa0875461779954ff88da02f8195a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign in with your preferred provider to continue"
+        },
+        "12/declaration/body/5/argument/1/3/1/3/3/1/1/3": {
+          "type": "element",
+          "hash": "f84b1b8574fb23734c002b401cad49e2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign in with Google"
+        },
+        "12/declaration/body/5/argument/1/3/1/3/3/1/3": {
+          "type": "element",
+          "hash": "f84b1b8574fb23734c002b401cad49e2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign in with Google"
+        },
+        "12/declaration/body/5/argument/1/3/1/3/3/3/3": {
+          "type": "element",
+          "hash": "0208d355f231c386b19390f0bea41b95",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "OR"
+        },
+        "12/declaration/body/5/argument/1/3/1/3/3/5/1/3": {
+          "type": "element",
+          "hash": "4b5b7b9164178eb3ba3900435b7a33d4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign in with GitHub"
+        },
+        "12/declaration/body/5/argument/1/3/1/3/3/5/3": {
+          "type": "element",
+          "hash": "4b5b7b9164178eb3ba3900435b7a33d4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign in with GitHub"
+        },
+        "15/declaration/body/16/argument/1/1/1": {
+          "type": "element",
+          "hash": "3180ad6b8de344b781637750259e0f53",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome"
+        },
+        "15/declaration/body/16/argument/1/1/3": {
+          "type": "element",
+          "hash": "bf2664a0b2b1bf83d37bc7ea1380b48b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Access your account or create a new one"
+        },
+        "15/declaration/body/16/argument/1/3/1/1/1": {
+          "type": "element",
           "hash": "f4f219abeb5a465ecb1c7efaf50246de",
           "context": "",
           "skip": false,
           "overrides": {},
           "content": "Login"
         },
-        "6/declaration/body/4/argument/1": {
+        "15/declaration/body/16/argument/1/3/1/1/3": {
           "type": "element",
-          "hash": "fd806cbdb153c01442b2a711ba22f35c",
+          "hash": "0dd2ae69be4618c1f9e615774a4509ca",
           "context": "",
           "skip": false,
           "overrides": {},
-          "content": "If you don't have an account, <element:Link>sign up</element:Link> . Otherwise, login here 👇"
-        }
-      }
-    },
-    "app/auth/signup/page.tsx": {
-      "scopes": {
-        "6/declaration/body/4/argument-title": {
-          "type": "attribute",
-          "hash": "a6a0b995463f62ce6a12e37f1d05a9bd",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Sign up"
+          "content": "Sign Up"
         },
-        "6/declaration/body/4/argument/1": {
+        "15/declaration/body/16/argument/1/3/1/3/3/1/1": {
           "type": "element",
-          "hash": "4f2bd96b5772f40ced7979910bcff055",
+          "hash": "e7f34943a0c2fb849db1839ff6ef5cb5",
           "context": "",
           "skip": false,
           "overrides": {},
-          "content": "If you already have an account, <element:Link>login</element:Link> . Otherwise, sign up here 👇"
+          "content": "Email"
+        },
+        "15/declaration/body/16/argument/1/3/1/3/3/1/3-placeholder": {
+          "type": "attribute",
+          "hash": "3cbb854500cac63513492e7abbc5cff3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "you@example.com"
+        },
+        "15/declaration/body/16/argument/1/3/1/3/3/3/1": {
+          "type": "element",
+          "hash": "223a61cf906ab9c40d22612c588dff48",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Password"
+        },
+        "15/declaration/body/16/argument/1/3/1/3/3/3/3/1-placeholder": {
+          "type": "attribute",
+          "hash": "5ee7cd1a4a7fe6fb896e8a0c4b2d7255",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "••••••••"
+        },
+        "15/declaration/body/16/argument/1/3/1/3/3/5/3": {
+          "type": "element",
+          "hash": "b79682d5260c6d88ee53fc40bbc355f3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Reset password"
+        },
+        "15/declaration/body/16/argument/1/3/1/3/5/3": {
+          "type": "element",
+          "hash": "49add9d354af8a03bffba31dbc206ddb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Or continue with"
+        },
+        "15/declaration/body/16/argument/1/3/1/3/7/1/3": {
+          "type": "element",
+          "hash": "6cc462fb53d90d404f48d5a6695c1de1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Google"
+        },
+        "15/declaration/body/16/argument/1/3/1/3/7/3/3": {
+          "type": "element",
+          "hash": "6e1cf3c00fa6fbe24afcc78ea3b5f3e4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "GitHub"
+        },
+        "15/declaration/body/16/argument/1/3/1/5/1/expression/right": {
+          "type": "element",
+          "hash": "aaab04ff3d92949c25a0e49aa04a1522",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Check your email to confirm your account."
+        },
+        "15/declaration/body/16/argument/1/3/1/5/5/1/1": {
+          "type": "element",
+          "hash": "e7f34943a0c2fb849db1839ff6ef5cb5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Email"
+        },
+        "15/declaration/body/16/argument/1/3/1/5/5/1/3-placeholder": {
+          "type": "attribute",
+          "hash": "3cbb854500cac63513492e7abbc5cff3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "you@example.com"
+        },
+        "15/declaration/body/16/argument/1/3/1/5/5/3/1": {
+          "type": "element",
+          "hash": "223a61cf906ab9c40d22612c588dff48",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Password"
+        },
+        "15/declaration/body/16/argument/1/3/1/5/5/3/3-placeholder": {
+          "type": "attribute",
+          "hash": "a8ece077fb5a4d4d2cfebc1454361fae",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "At least 6 characters"
+        },
+        "15/declaration/body/16/argument/1/3/1/5/5/5/1": {
+          "type": "element",
+          "hash": "914850cd5f4d164a9b11495a025ddf65",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Name (optional)"
+        },
+        "15/declaration/body/16/argument/1/3/1/5/5/5/3-placeholder": {
+          "type": "attribute",
+          "hash": "b00c01deec0af9a441331a5134210de1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Your name"
+        },
+        "15/declaration/body/16/argument/3/1/1/1": {
+          "type": "element",
+          "hash": "c21b33e73f096fd7b02171d399b36adf",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Reset password"
+        },
+        "15/declaration/body/16/argument/3/1/1/3": {
+          "type": "element",
+          "hash": "e87efc38b0b4a7925eb54617bd3e2a73",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter your email and we'll send you a link to reset your password."
+        },
+        "15/declaration/body/16/argument/3/1/3/expression/alternate/3/1": {
+          "type": "element",
+          "hash": "e7f34943a0c2fb849db1839ff6ef5cb5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Email"
+        },
+        "15/declaration/body/16/argument/3/1/3/expression/alternate/3/3-placeholder": {
+          "type": "attribute",
+          "hash": "3cbb854500cac63513492e7abbc5cff3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "you@example.com"
+        },
+        "15/declaration/body/16/argument/3/1/3/expression/consequent": {
+          "type": "element",
+          "hash": "8d038112efe9c26e288600bd3260b93e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Check your email for the reset link."
+        },
+        "8/declaration/body/5/argument/3/1/1/1": {
+          "type": "element",
+          "hash": "3180ad6b8de344b781637750259e0f53",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome"
+        },
+        "8/declaration/body/5/argument/3/1/1/3": {
+          "type": "element",
+          "hash": "1cbc77611bcf2cd1c2115ff7accf0b2d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign in with your preferred provider to continue"
+        },
+        "8/declaration/body/5/argument/3/1/3/3/1": {
+          "type": "element",
+          "hash": "218c02f67f05a274455fb5eb5b3a3d61",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:GoogleIcon></element:GoogleIcon> Continue with Google"
+        },
+        "8/declaration/body/5/argument/3/1/3/3/3": {
+          "type": "element",
+          "hash": "a6169fadc2ff57dfa82b7f26d110f463",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:GitHubIcon></element:GitHubIcon> Continue with GitHub"
+        },
+        "8/declaration/body/5/argument/7/3": {
+          "type": "element",
+          "hash": "cb63c780a557a2cb2d676cb9d81a3c13",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover events on the map, join communities, and connect with people near you."
+        },
+        "9/declaration/body/5/argument/1/3/1/1/1": {
+          "type": "element",
+          "hash": "3180ad6b8de344b781637750259e0f53",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome"
+        },
+        "9/declaration/body/5/argument/1/3/1/1/3": {
+          "type": "element",
+          "hash": "df49098049f42ebef8393621f17c4ac0",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign in with your preferred provider to continue"
+        },
+        "9/declaration/body/5/argument/1/3/1/3/3/1": {
+          "type": "element",
+          "hash": "749052c5252df271b5f585e252ef4fc4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:GoogleIcon></element:GoogleIcon> Continue with Google"
+        },
+        "9/declaration/body/5/argument/1/3/1/3/3/3": {
+          "type": "element",
+          "hash": "c6e0654016b4d1ba49058ea6b9e90594",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:GitHubIcon></element:GitHubIcon> Continue with GitHub"
+        },
+        "9/declaration/body/5/argument/1/7/3": {
+          "type": "element",
+          "hash": "6cd6ca689940647b8676f5ece51700ec",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover events on the map, join communities, and connect with people near you."
+        },
+        "9/declaration/body/5/argument/3/1/1/1": {
+          "type": "element",
+          "hash": "3180ad6b8de344b781637750259e0f53",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome"
+        },
+        "9/declaration/body/5/argument/3/1/1/3": {
+          "type": "element",
+          "hash": "1cbc77611bcf2cd1c2115ff7accf0b2d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign in with your preferred provider to continue"
+        },
+        "9/declaration/body/5/argument/3/1/3/3/1": {
+          "type": "element",
+          "hash": "218c02f67f05a274455fb5eb5b3a3d61",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:GoogleIcon></element:GoogleIcon> Continue with Google"
+        },
+        "9/declaration/body/5/argument/3/1/3/3/3": {
+          "type": "element",
+          "hash": "a6169fadc2ff57dfa82b7f26d110f463",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:GitHubIcon></element:GitHubIcon> Continue with GitHub"
+        },
+        "9/declaration/body/5/argument/7/3": {
+          "type": "element",
+          "hash": "cb63c780a557a2cb2d676cb9d81a3c13",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover events on the map, join communities, and connect with people near you."
         }
       }
     },
     "app/dashboard/page.tsx": {
       "scopes": {
+        "3/declaration/body/0/argument/3/1/1": {
+          "type": "element",
+          "hash": "c9380ea68c8c76ea451bd9613329a07c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Dashboard"
+        },
+        "3/declaration/body/0/argument/3/1/3": {
+          "type": "element",
+          "hash": "372e9662ac511643891f01e5f6e4d7d6",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome. Your events and forums will appear here."
+        },
+        "3/declaration/body/0/argument/3/1/5": {
+          "type": "element",
+          "hash": "e9c343ab112460921290c79d3d0e3d65",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "← Back to Home"
+        },
         "4/declaration/body/2/argument/1": {
           "type": "element",
           "hash": "c9380ea68c8c76ea451bd9613329a07c",
@@ -56,11 +540,35 @@
           "context": "",
           "skip": false,
           "overrides": {},
-          "content": "Welcome, {session.user.email}. Your events and forums will appear here."
+          "content": "Welcome. Your events and forums will appear here."
         },
         "4/declaration/body/2/argument/5": {
           "type": "element",
           "hash": "2b4fa9a4feb28b2023d9145b962f795f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "← Back to Home"
+        },
+        "5/declaration/body/4/argument/3/1/1": {
+          "type": "element",
+          "hash": "c9380ea68c8c76ea451bd9613329a07c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Dashboard"
+        },
+        "5/declaration/body/4/argument/3/1/3": {
+          "type": "element",
+          "hash": "7e7cd1cc63466d767b5e0594e606be27",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome, {displayName}. Your events and forums will appear here."
+        },
+        "5/declaration/body/4/argument/3/1/5": {
+          "type": "element",
+          "hash": "e9c343ab112460921290c79d3d0e3d65",
           "context": "",
           "skip": false,
           "overrides": {},
@@ -80,7 +588,7 @@
           "context": "",
           "skip": false,
           "overrides": {},
-          "content": "Welcome, {session.user.email}. Your events and forums will appear here."
+          "content": "Welcome. Your events and forums will appear here."
         },
         "6/declaration/body/2/argument/3/1/5": {
           "type": "element",
@@ -184,7 +692,7 @@
           "context": "",
           "skip": false,
           "overrides": {},
-          "content": "This chat is using tambo_ai's authentication with better-auth. To use this chat setup better auth and then come back here."
+          "content": "This chat requires authentication. Please sign in to use Tambo AI chat."
         },
         "7/declaration/body/3/consequent/0/argument/1/1/3": {
           "type": "element",
@@ -441,110 +949,6 @@
           "skip": true,
           "overrides": {},
           "content": "Autumn"
-        }
-      }
-    },
-    "components/better-auth/auth-buttons.tsx": {
-      "scopes": {
-        "1/declaration/body/0/argument/1": {
-          "type": "element",
-          "hash": "9cd7c13e9cfe38a55848735995f42629",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Sign up"
-        },
-        "1/declaration/body/0/argument/3": {
-          "type": "element",
-          "hash": "7b133c38bec0d5ee23cc6bcf9a8de50b",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "or"
-        },
-        "1/declaration/body/0/argument/5": {
-          "type": "element",
-          "hash": "8d2484d1cad09299980986924cadeede",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Log in"
-        }
-      }
-    },
-    "components/better-auth/auth-form.tsx": {
-      "scopes": {
-        "3/declaration/body/3/argument/1-placeholder": {
-          "type": "attribute",
-          "hash": "e7f34943a0c2fb849db1839ff6ef5cb5",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Email"
-        },
-        "3/declaration/body/3/argument/3-placeholder": {
-          "type": "attribute",
-          "hash": "223a61cf906ab9c40d22612c588dff48",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Password"
-        },
-        "3/declaration/body/3/argument/5/1/expression/alternate": {
-          "type": "element",
-          "hash": "3cfba90b4600131e82fc4260c568d044",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Continue"
-        },
-        "3/declaration/body/3/argument/5/1/expression/consequent": {
-          "type": "element",
-          "hash": "82b4ea7ed1439094d7c4be13aaba9a66",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Loading..."
-        },
-        "3/declaration/body/3/argument/7": {
-          "type": "element",
-          "hash": "78f90d3ce8a8cbadf84be5a011809dc6",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "or <element:Link>go back to homepage</element:Link>"
-        }
-      }
-    },
-    "components/better-auth/index.tsx": {
-      "scopes": {
-        "4/declaration/body/1/argument/openingElement/0/value/expression": {
-          "type": "element",
-          "hash": "18f756b39842de98eb11192806384785",
-          "context": "",
-          "skip": true,
-          "overrides": {},
-          "content": "Better Auth"
-        }
-      }
-    },
-    "components/better-auth/logout-button.tsx": {
-      "scopes": {
-        "3/declaration/body/3/argument/1": {
-          "type": "element",
-          "hash": "197fa541ee53d0410a4b2dc736993e81",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Logged in as <element:strong>{userEmail}</element:strong>"
-        },
-        "3/declaration/body/3/argument/3": {
-          "type": "element",
-          "hash": "9d5c876c4949a5f075d83f2b2862f77f",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Log out"
         }
       }
     },
@@ -1134,6 +1538,86 @@
     },
     "components/layout/Navbar.tsx": {
       "scopes": {
+        "14/declaration/body/6/argument/1/1/1/3": {
+          "type": "element",
+          "hash": "4e303f2bd192d0bd4bd27129f3f234f6",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "MapInly"
+        },
+        "14/declaration/body/6/argument/1/1/5/1/expression/alternate": {
+          "type": "element",
+          "hash": "cec8d8644d3778dcd60ef6e8a6bd5241",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign In"
+        },
+        "14/declaration/body/6/argument/1/1/5/1/expression/consequent/3/1/1": {
+          "type": "element",
+          "hash": "e9b3f6cf0fcc90eb6b528fac5cbe156f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:LayoutDashboard></element:LayoutDashboard> Dashboard"
+        },
+        "14/declaration/body/6/argument/1/1/5/1/expression/consequent/3/3": {
+          "type": "element",
+          "hash": "9168f418bbdac7d58efee234f078b8d3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:LogOut></element:LogOut> Sign Out"
+        },
+        "15/declaration/body/6/argument/1/1/1/5": {
+          "type": "element",
+          "hash": "4e303f2bd192d0bd4bd27129f3f234f6",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "MapInly"
+        },
+        "15/declaration/body/6/argument/1/1/5/1/1/expression/alternate/consequent/3/1/1": {
+          "type": "element",
+          "hash": "37bca3693ce806b11037e57df9906211",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:LayoutDashboard></element:LayoutDashboard> Dashboard"
+        },
+        "15/declaration/body/6/argument/1/1/5/1/1/expression/alternate/consequent/3/3": {
+          "type": "element",
+          "hash": "42cf91113ec7db43e7a5c5ee5ced5aeb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:LogOut></element:LogOut> Sign Out"
+        },
+        "15/declaration/body/6/argument/1/1/5/1/1/expression/consequent-aria-label": {
+          "type": "attribute",
+          "hash": "c6bc8c380e83336c81a92594d3f23000",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Loading"
+        },
+        "15/declaration/body/6/argument/1/1/5/1/expression/consequent/3/1/1": {
+          "type": "element",
+          "hash": "e9b3f6cf0fcc90eb6b528fac5cbe156f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:LayoutDashboard></element:LayoutDashboard> Dashboard"
+        },
+        "15/declaration/body/6/argument/1/1/5/1/expression/consequent/3/3": {
+          "type": "element",
+          "hash": "9168f418bbdac7d58efee234f078b8d3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:LogOut></element:LogOut> Sign Out"
+        },
         "5/declaration/body/1/argument/1/1/1": {
           "type": "element",
           "hash": "7946fd32be6e9bcaccda9d5b19e84c3e",
@@ -1189,42 +1673,6 @@
           "skip": true,
           "overrides": {},
           "content": "MapInly"
-        }
-      }
-    },
-    "components/layout/NavbarAuth.tsx": {
-      "scopes": {
-        "4/declaration/body/3/consequent/0/argument/1": {
-          "type": "element",
-          "hash": "04ab3eae9af188fb7cff6c75f32744fa",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Dashboard"
-        },
-        "4/declaration/body/3/consequent/0/argument/5": {
-          "type": "element",
-          "hash": "91f9b6381c6ebba6e3828a4fadceec01",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Log out"
-        },
-        "4/declaration/body/4/argument/1": {
-          "type": "element",
-          "hash": "8d2484d1cad09299980986924cadeede",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Log in"
-        },
-        "4/declaration/body/4/argument/3": {
-          "type": "element",
-          "hash": "9cd7c13e9cfe38a55848735995f42629",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Sign up"
         }
       }
     },
@@ -2209,6 +2657,26 @@
           "skip": false,
           "overrides": {},
           "content": "Next slide"
+        }
+      }
+    },
+    "components/ui/dialog.tsx": {
+      "scopes": {
+        "10/body/0/argument/3/3/expression/right/3": {
+          "type": "element",
+          "hash": "2c2e22f8424a1031de89063bd0022e16",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Close"
+        },
+        "12/body/0/argument/3/expression/right/1": {
+          "type": "element",
+          "hash": "2c2e22f8424a1031de89063bd0022e16",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Close"
         }
       }
     },

@@ -14,10 +14,10 @@ Edit `.env` and fill in:
    - `DATABASE_URL` — pooled connection (for Prisma Client)
    - `DIRECT_URL` — direct connection (for migrations)
 
-### Required for auth (BetterAuth)
+### Required for Supabase Auth
 
-- `BETTER_AUTH_SECRET` — generate with: `openssl rand -base64 32`
-- `BETTER_AUTH_URL` — already set to `http://localhost:3000`
+- `NEXT_PUBLIC_SUPABASE_URL` — your Supabase project URL
+- `NEXT_PUBLIC_SUPABASE_ANON_KEY` or `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY` — your Supabase anon/public key
 
 ### Required for Lingo.dev (i18n)
 
@@ -26,7 +26,7 @@ Edit `.env` and fill in:
 ### Optional (for full features)
 
 - `RESEND_API_KEY` + `RESEND_FROM_EMAIL` — for transactional emails
-- `NEXT_PUBLIC_SUPABASE_URL` + `SUPABASE_SERVICE_ROLE_KEY` — for Realtime (Phase 4 chat)
+- `SUPABASE_SERVICE_ROLE_KEY` — for Realtime (Phase 4 chat) or admin operations
 
 ## 2. Run Migrations
 

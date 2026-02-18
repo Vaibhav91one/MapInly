@@ -34,10 +34,15 @@ export default function HeroSection() {
           position="bottom"
           popDelay={0.15}
         />
-        <ScrollRotatingAsterisk className="absolute left-8 top-1/4" size="size-25"/>
+        <ScrollRotatingAsterisk
+          className="absolute left-8 top-1/4"
+          size="size-25"
+          mode="scroll"
+        />
         <ScrollRotatingAsterisk
           className="absolute right-8 bottom-1/4"
           size="size-25"
+          mode="scroll"
         />
         <motion.div
           initial={{ scale: 0 }}

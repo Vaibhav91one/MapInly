@@ -38,7 +38,19 @@ export async function updateSession(request: NextRequest) {
   });
 
   // Refreshes the session if expired (required for Supabase Auth)
-  await supabase.auth.getUser();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+
+  const isProtectedRoute =
+    request.nextUrl.pathname.startsWith("/dashboard");
+
+  if (!user && isProtectedRoute) {
+    const redirectUrl = request.nextUrl.clone();
+    redirectUrl.pathname = "/auth";
+    redirectUrl.searchParams.set("next", request.nextUrl.pathname);
+    return NextResponse.redirect(redirectUrl);
+  }
 
   return supabaseResponse;
 }

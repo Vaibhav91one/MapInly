@@ -1,9 +1,234 @@
 export default {
   version: 0.1,
   files: {
-    "app/auth/login/page.tsx": {
+    "app/auth/page.tsx": {
       entries: {
-        "6/declaration/body/4/argument-title": {
+        "10/declaration/body/5/argument/1/11/3": {
+          content: {
+            de: "Entdecke Events auf der Karte, tritt Communities bei und vernetze dich mit Menschen in deiner Nähe.",
+            en: "Discover events on the map, join communities, and connect with people near you.",
+            es: "Descubre eventos en el mapa, únete a comunidades y conecta con personas cerca de ti.",
+            fr: "Découvrez des événements sur la carte, rejoignez des communautés et connectez-vous avec des personnes près de chez vous.",
+          },
+          hash: "6cd6ca689940647b8676f5ece51700ec",
+        },
+        "10/declaration/body/5/argument/1/13/3": {
+          content: {
+            de: "Finde deine Leute.<element:br></element:br> Gestalte deine Welt.",
+            en: "Find your people.<element:br></element:br> Shape your world.",
+            es: "Encuentra a tu gente.<element:br></element:br> Da forma a tu mundo.",
+            fr: "Trouvez votre communauté.<element:br></element:br> Façonnez votre monde.",
+          },
+          hash: "1e4433387344eda1a0ae1cf8db865fdc",
+        },
+        "10/declaration/body/5/argument/1/3/1/1/1": {
+          content: {
+            de: "Willkommen",
+            en: "Welcome",
+            es: "Bienvenido",
+            fr: "Bienvenue",
+          },
+          hash: "3180ad6b8de344b781637750259e0f53",
+        },
+        "10/declaration/body/5/argument/1/3/1/1/3": {
+          content: {
+            de: "Melden Sie sich mit Ihrem bevorzugten Anbieter an, um fortzufahren",
+            en: "Sign in with your preferred provider to continue",
+            es: "Inicia sesión con tu proveedor preferido para continuar",
+            fr: "Connectez-vous avec votre fournisseur préféré pour continuer",
+          },
+          hash: "df49098049f42ebef8393621f17c4ac0",
+        },
+        "10/declaration/body/5/argument/1/3/1/3/3/1": {
+          content: {
+            de: "<element:GoogleIcon></element:GoogleIcon> Mit Google fortfahren",
+            en: "<element:GoogleIcon></element:GoogleIcon> Continue with Google",
+            es: "<element:GoogleIcon></element:GoogleIcon> Continuar con Google",
+            fr: "<element:GoogleIcon></element:GoogleIcon> Continuer avec Google",
+          },
+          hash: "749052c5252df271b5f585e252ef4fc4",
+        },
+        "10/declaration/body/5/argument/1/3/1/3/3/1/3": {
+          content: {
+            de: "Mit Google anmelden",
+            en: "Sign in with Google",
+            es: "Iniciar sesión con Google",
+            fr: "Se connecter avec Google",
+          },
+          hash: "f84b1b8574fb23734c002b401cad49e2",
+        },
+        "10/declaration/body/5/argument/1/3/1/3/3/3": {
+          content: {
+            de: "<element:GitHubIcon></element:GitHubIcon> Mit GitHub fortfahren",
+            en: "<element:GitHubIcon></element:GitHubIcon> Continue with GitHub",
+            es: "<element:GitHubIcon></element:GitHubIcon> Continuar con GitHub",
+            fr: "<element:GitHubIcon></element:GitHubIcon> Continuer avec GitHub",
+          },
+          hash: "c6e0654016b4d1ba49058ea6b9e90594",
+        },
+        "10/declaration/body/5/argument/1/3/1/3/3/3/3": {
+          content: {
+            de: "ODER",
+            en: "OR",
+            es: "O",
+            fr: "OU",
+          },
+          hash: "0208d355f231c386b19390f0bea41b95",
+        },
+        "10/declaration/body/5/argument/1/3/1/3/3/5/3": {
+          content: {
+            de: "Mit GitHub anmelden",
+            en: "Sign in with GitHub",
+            es: "Iniciar sesión con GitHub",
+            fr: "Se connecter avec GitHub",
+          },
+          hash: "4b5b7b9164178eb3ba3900435b7a33d4",
+        },
+        "10/declaration/body/5/argument/1/7/3": {
+          content: {
+            de: "Entdecke Events auf der Karte, tritt Communities bei und vernetze dich mit Menschen in deiner Nähe.",
+            en: "Discover events on the map, join communities, and connect with people near you.",
+            es: "Descubre eventos en el mapa, únete a comunidades y conecta con personas cerca de ti.",
+            fr: "Découvrez des événements sur la carte, rejoignez des communautés et connectez-vous avec des personnes près de chez vous.",
+          },
+          hash: "6cd6ca689940647b8676f5ece51700ec",
+        },
+        "10/declaration/body/5/argument/1/9/3": {
+          content: {
+            de: "Entdecke Events auf der Karte, tritt Communities bei und vernetze dich mit Menschen in deiner Nähe.",
+            en: "Discover events on the map, join communities, and connect with people near you.",
+            es: "Descubre eventos en el mapa, únete a comunidades y conecta con personas cerca de ti.",
+            fr: "Découvrez des événements sur la carte, rejoignez des communautés et connectez-vous avec des personnes près de chez vous.",
+          },
+          hash: "6cd6ca689940647b8676f5ece51700ec",
+        },
+        "12/declaration/body/5/argument/1/13/3": {
+          content: {
+            de: "Finde deine Leute.<element:br></element:br> Gestalte deine Welt.",
+            en: "Find your people.<element:br></element:br> Shape your world.",
+            es: "Encuentra a tu gente.<element:br></element:br> Da forma a tu mundo.",
+            fr: "Trouvez votre communauté.<element:br></element:br> Façonnez votre monde.",
+          },
+          hash: "1e4433387344eda1a0ae1cf8db865fdc",
+        },
+        "12/declaration/body/5/argument/1/13/3/1": {
+          content: {
+            de: "Finde deine Leute.",
+            en: "Find your people.",
+            es: "Encuentra a tu gente.",
+            fr: "Trouvez votre communauté.",
+          },
+          hash: "f1e405432e8a07d3bceef0839c6fc755",
+        },
+        "12/declaration/body/5/argument/1/13/3/5": {
+          content: {
+            de: "Gestalte deine Welt.",
+            en: "Shape your world.",
+            es: "Da forma a tu mundo.",
+            fr: "Façonnez votre monde.",
+          },
+          hash: "248f4e6642442acb93189fc4bf243b19",
+        },
+        "12/declaration/body/5/argument/1/3/1/1/1": {
+          content: {
+            de: "Willkommen",
+            en: "Welcome",
+            es: "Bienvenido",
+            fr: "Bienvenue",
+          },
+          hash: "3180ad6b8de344b781637750259e0f53",
+        },
+        "12/declaration/body/5/argument/1/3/1/1/1/1": {
+          content: {
+            de: "Willkommen",
+            en: "Welcome",
+            es: "Bienvenido",
+            fr: "Bienvenue",
+          },
+          hash: "3180ad6b8de344b781637750259e0f53",
+        },
+        "12/declaration/body/5/argument/1/3/1/1/3": {
+          content: {
+            de: "Melden Sie sich mit Ihrem bevorzugten Anbieter an, um fortzufahren",
+            en: "Sign in with your preferred provider to continue",
+            es: "Inicia sesión con tu proveedor preferido para continuar",
+            fr: "Connectez-vous avec votre fournisseur préféré pour continuer",
+          },
+          hash: "df49098049f42ebef8393621f17c4ac0",
+        },
+        "12/declaration/body/5/argument/1/3/1/1/3/1": {
+          content: {
+            de: "Melden Sie sich mit Ihrem bevorzugten Anbieter an, um fortzufahren",
+            en: "Sign in with your preferred provider to continue",
+            es: "Inicia sesión con tu proveedor preferido para continuar",
+            fr: "Connectez-vous avec votre fournisseur préféré pour continuer",
+          },
+          hash: "308aa0875461779954ff88da02f8195a",
+        },
+        "12/declaration/body/5/argument/1/3/1/3/3/1/1/3": {
+          content: {
+            de: "Mit Google anmelden",
+            en: "Sign in with Google",
+            es: "Iniciar sesión con Google",
+            fr: "Se connecter avec Google",
+          },
+          hash: "f84b1b8574fb23734c002b401cad49e2",
+        },
+        "12/declaration/body/5/argument/1/3/1/3/3/1/3": {
+          content: {
+            de: "Mit Google anmelden",
+            en: "Sign in with Google",
+            es: "Iniciar sesión con Google",
+            fr: "Se connecter avec Google",
+          },
+          hash: "f84b1b8574fb23734c002b401cad49e2",
+        },
+        "12/declaration/body/5/argument/1/3/1/3/3/3/3": {
+          content: {
+            de: "ODER",
+            en: "OR",
+            es: "O",
+            fr: "OU",
+          },
+          hash: "0208d355f231c386b19390f0bea41b95",
+        },
+        "12/declaration/body/5/argument/1/3/1/3/3/5/1/3": {
+          content: {
+            de: "Mit GitHub anmelden",
+            en: "Sign in with GitHub",
+            es: "Iniciar sesión con GitHub",
+            fr: "Se connecter avec GitHub",
+          },
+          hash: "4b5b7b9164178eb3ba3900435b7a33d4",
+        },
+        "12/declaration/body/5/argument/1/3/1/3/3/5/3": {
+          content: {
+            de: "Mit GitHub anmelden",
+            en: "Sign in with GitHub",
+            es: "Iniciar sesión con GitHub",
+            fr: "Se connecter avec GitHub",
+          },
+          hash: "4b5b7b9164178eb3ba3900435b7a33d4",
+        },
+        "15/declaration/body/16/argument/1/1/1": {
+          content: {
+            de: "Willkommen",
+            en: "Welcome",
+            es: "Bienvenido",
+            fr: "Bienvenue",
+          },
+          hash: "3180ad6b8de344b781637750259e0f53",
+        },
+        "15/declaration/body/16/argument/1/1/3": {
+          content: {
+            de: "Greifen Sie auf Ihr Konto zu oder erstellen Sie ein neues",
+            en: "Access your account or create a new one",
+            es: "Accede a tu cuenta o crea una nueva",
+            fr: "Accédez à votre compte ou créez-en un nouveau",
+          },
+          hash: "bf2664a0b2b1bf83d37bc7ea1380b48b",
+        },
+        "15/declaration/body/16/argument/1/3/1/1/1": {
           content: {
             de: "Anmelden",
             en: "Login",
@@ -12,41 +237,362 @@ export default {
           },
           hash: "f4f219abeb5a465ecb1c7efaf50246de",
         },
-        "6/declaration/body/4/argument/1": {
-          content: {
-            de: "Falls Sie noch keinen Account haben, <element:Link>registrieren Sie sich</element:Link>. Andernfalls melden Sie sich hier an 👇",
-            en: "If you don't have an account, <element:Link>sign up</element:Link> . Otherwise, login here 👇",
-            es: "Si no tienes una cuenta, <element:Link>regístrate</element:Link>. De lo contrario, inicia sesión aquí 👇",
-            fr: "Si vous n'avez pas de compte, <element:Link>inscrivez-vous</element:Link>. Sinon, connectez-vous ici 👇",
-          },
-          hash: "fd806cbdb153c01442b2a711ba22f35c",
-        },
-      },
-    },
-    "app/auth/signup/page.tsx": {
-      entries: {
-        "6/declaration/body/4/argument-title": {
+        "15/declaration/body/16/argument/1/3/1/1/3": {
           content: {
             de: "Registrieren",
-            en: "Sign up",
+            en: "Sign Up",
             es: "Registrarse",
-            fr: "Inscription",
+            fr: "S'inscrire",
           },
-          hash: "a6a0b995463f62ce6a12e37f1d05a9bd",
+          hash: "0dd2ae69be4618c1f9e615774a4509ca",
         },
-        "6/declaration/body/4/argument/1": {
+        "15/declaration/body/16/argument/1/3/1/3/3/1/1": {
           content: {
-            de: "Falls Sie bereits einen Account haben, <element:Link>melden Sie sich an</element:Link>. Andernfalls registrieren Sie sich hier 👇",
-            en: "If you already have an account, <element:Link>login</element:Link> . Otherwise, sign up here 👇",
-            es: "Si ya tienes una cuenta, <element:Link>inicia sesión</element:Link>. De lo contrario, regístrate aquí 👇",
-            fr: "Si vous avez déjà un compte, <element:Link>connectez-vous</element:Link>. Sinon, inscrivez-vous ici 👇",
+            de: "E-Mail",
+            en: "Email",
+            es: "Correo electrónico",
+            fr: "Email",
           },
-          hash: "4f2bd96b5772f40ced7979910bcff055",
+          hash: "e7f34943a0c2fb849db1839ff6ef5cb5",
+        },
+        "15/declaration/body/16/argument/1/3/1/3/3/1/3-placeholder": {
+          content: {
+            de: "du@beispiel.de",
+            en: "you@example.com",
+            es: "tu@ejemplo.com",
+            fr: "vous@exemple.com",
+          },
+          hash: "3cbb854500cac63513492e7abbc5cff3",
+        },
+        "15/declaration/body/16/argument/1/3/1/3/3/3/1": {
+          content: {
+            de: "Passwort",
+            en: "Password",
+            es: "Contraseña",
+            fr: "Mot de passe",
+          },
+          hash: "223a61cf906ab9c40d22612c588dff48",
+        },
+        "15/declaration/body/16/argument/1/3/1/3/3/3/3/1-placeholder": {
+          content: {
+            de: "••••••••",
+            en: "••••••••",
+            es: "••••••••",
+            fr: "••••••••",
+          },
+          hash: "5ee7cd1a4a7fe6fb896e8a0c4b2d7255",
+        },
+        "15/declaration/body/16/argument/1/3/1/3/3/5/3": {
+          content: {
+            de: "Passwort zurücksetzen",
+            en: "Reset password",
+            es: "Restablecer contraseña",
+            fr: "Réinitialiser le mot de passe",
+          },
+          hash: "b79682d5260c6d88ee53fc40bbc355f3",
+        },
+        "15/declaration/body/16/argument/1/3/1/3/5/3": {
+          content: {
+            de: "Oder fortfahren mit",
+            en: "Or continue with",
+            es: "O continuar con",
+            fr: "Ou continuer avec",
+          },
+          hash: "49add9d354af8a03bffba31dbc206ddb",
+        },
+        "15/declaration/body/16/argument/1/3/1/3/7/1/3": {
+          content: {
+            de: "Google",
+            en: "Google",
+            es: "Google",
+            fr: "Google",
+          },
+          hash: "6cc462fb53d90d404f48d5a6695c1de1",
+        },
+        "15/declaration/body/16/argument/1/3/1/3/7/3/3": {
+          content: {
+            de: "GitHub",
+            en: "GitHub",
+            es: "GitHub",
+            fr: "GitHub",
+          },
+          hash: "6e1cf3c00fa6fbe24afcc78ea3b5f3e4",
+        },
+        "15/declaration/body/16/argument/1/3/1/5/1/expression/right": {
+          content: {
+            de: "Überprüfen Sie Ihre E-Mail, um Ihr Konto zu bestätigen.",
+            en: "Check your email to confirm your account.",
+            es: "Revisa tu correo electrónico para confirmar tu cuenta.",
+            fr: "Consultez votre e-mail pour confirmer votre compte.",
+          },
+          hash: "aaab04ff3d92949c25a0e49aa04a1522",
+        },
+        "15/declaration/body/16/argument/1/3/1/5/5/1/1": {
+          content: {
+            de: "E-Mail",
+            en: "Email",
+            es: "Correo electrónico",
+            fr: "Email",
+          },
+          hash: "e7f34943a0c2fb849db1839ff6ef5cb5",
+        },
+        "15/declaration/body/16/argument/1/3/1/5/5/1/3-placeholder": {
+          content: {
+            de: "du@beispiel.de",
+            en: "you@example.com",
+            es: "tu@ejemplo.com",
+            fr: "vous@exemple.com",
+          },
+          hash: "3cbb854500cac63513492e7abbc5cff3",
+        },
+        "15/declaration/body/16/argument/1/3/1/5/5/3/1": {
+          content: {
+            de: "Passwort",
+            en: "Password",
+            es: "Contraseña",
+            fr: "Mot de passe",
+          },
+          hash: "223a61cf906ab9c40d22612c588dff48",
+        },
+        "15/declaration/body/16/argument/1/3/1/5/5/3/3-placeholder": {
+          content: {
+            de: "Mindestens 6 Zeichen",
+            en: "At least 6 characters",
+            es: "Al menos 6 caracteres",
+            fr: "Au moins 6 caractères",
+          },
+          hash: "a8ece077fb5a4d4d2cfebc1454361fae",
+        },
+        "15/declaration/body/16/argument/1/3/1/5/5/5/1": {
+          content: {
+            de: "Name (optional)",
+            en: "Name (optional)",
+            es: "Nombre (opcional)",
+            fr: "Nom (facultatif)",
+          },
+          hash: "914850cd5f4d164a9b11495a025ddf65",
+        },
+        "15/declaration/body/16/argument/1/3/1/5/5/5/3-placeholder": {
+          content: {
+            de: "Ihr Name",
+            en: "Your name",
+            es: "Tu nombre",
+            fr: "Votre nom",
+          },
+          hash: "b00c01deec0af9a441331a5134210de1",
+        },
+        "15/declaration/body/16/argument/3/1/1/1": {
+          content: {
+            de: "Passwort zurücksetzen",
+            en: "Reset password",
+            es: "Restablecer contraseña",
+            fr: "Réinitialiser le mot de passe",
+          },
+          hash: "c21b33e73f096fd7b02171d399b36adf",
+        },
+        "15/declaration/body/16/argument/3/1/1/3": {
+          content: {
+            de: "Geben Sie Ihre E-Mail-Adresse ein und wir senden Ihnen einen Link zum Zurücksetzen Ihres Passworts.",
+            en: "Enter your email and we'll send you a link to reset your password.",
+            es: "Introduce tu correo electrónico y te enviaremos un enlace para restablecer tu contraseña.",
+            fr: "Saisissez votre e-mail et nous vous enverrons un lien pour réinitialiser votre mot de passe.",
+          },
+          hash: "e87efc38b0b4a7925eb54617bd3e2a73",
+        },
+        "15/declaration/body/16/argument/3/1/3/expression/alternate/3/1": {
+          content: {
+            de: "E-Mail",
+            en: "Email",
+            es: "Correo electrónico",
+            fr: "Email",
+          },
+          hash: "e7f34943a0c2fb849db1839ff6ef5cb5",
+        },
+        "15/declaration/body/16/argument/3/1/3/expression/alternate/3/3-placeholder":
+          {
+            content: {
+              de: "du@beispiel.de",
+              en: "you@example.com",
+              es: "tu@ejemplo.com",
+              fr: "vous@exemple.com",
+            },
+            hash: "3cbb854500cac63513492e7abbc5cff3",
+          },
+        "15/declaration/body/16/argument/3/1/3/expression/consequent": {
+          content: {
+            de: "Überprüfen Sie Ihre E-Mail auf den Link zum Zurücksetzen.",
+            en: "Check your email for the reset link.",
+            es: "Revisa tu correo electrónico para encontrar el enlace de restablecimiento.",
+            fr: "Consultez votre e-mail pour le lien de réinitialisation.",
+          },
+          hash: "8d038112efe9c26e288600bd3260b93e",
+        },
+        "8/declaration/body/5/argument/3/1/1/1": {
+          content: {
+            de: "Willkommen",
+            en: "Welcome",
+            es: "Bienvenido",
+            fr: "Bienvenue",
+          },
+          hash: "3180ad6b8de344b781637750259e0f53",
+        },
+        "8/declaration/body/5/argument/3/1/1/3": {
+          content: {
+            de: "Melden Sie sich mit Ihrem bevorzugten Anbieter an, um fortzufahren",
+            en: "Sign in with your preferred provider to continue",
+            es: "Inicia sesión con tu proveedor preferido para continuar",
+            fr: "Connectez-vous avec votre fournisseur préféré pour continuer",
+          },
+          hash: "1cbc77611bcf2cd1c2115ff7accf0b2d",
+        },
+        "8/declaration/body/5/argument/3/1/3/3/1": {
+          content: {
+            de: "<element:GoogleIcon></element:GoogleIcon> Mit Google fortfahren",
+            en: "<element:GoogleIcon></element:GoogleIcon> Continue with Google",
+            es: "<element:GoogleIcon></element:GoogleIcon> Continuar con Google",
+            fr: "<element:GoogleIcon></element:GoogleIcon> Continuer avec Google",
+          },
+          hash: "218c02f67f05a274455fb5eb5b3a3d61",
+        },
+        "8/declaration/body/5/argument/3/1/3/3/3": {
+          content: {
+            de: "<element:GitHubIcon></element:GitHubIcon> Mit GitHub fortfahren",
+            en: "<element:GitHubIcon></element:GitHubIcon> Continue with GitHub",
+            es: "<element:GitHubIcon></element:GitHubIcon> Continuar con GitHub",
+            fr: "<element:GitHubIcon></element:GitHubIcon> Continuer avec GitHub",
+          },
+          hash: "a6169fadc2ff57dfa82b7f26d110f463",
+        },
+        "8/declaration/body/5/argument/7/3": {
+          content: {
+            de: "Entdecken Sie Veranstaltungen auf der Karte, treten Sie Communities bei und vernetzen Sie sich mit Menschen in Ihrer Nähe.",
+            en: "Discover events on the map, join communities, and connect with people near you.",
+            es: "Descubre eventos en el mapa, únete a comunidades y conecta con personas cerca de ti.",
+            fr: "Découvrez des événements sur la carte, rejoignez des communautés et connectez-vous avec des personnes près de chez vous.",
+          },
+          hash: "cb63c780a557a2cb2d676cb9d81a3c13",
+        },
+        "9/declaration/body/5/argument/1/3/1/1/1": {
+          content: {
+            de: "Willkommen",
+            en: "Welcome",
+            es: "Bienvenido",
+            fr: "Bienvenue",
+          },
+          hash: "3180ad6b8de344b781637750259e0f53",
+        },
+        "9/declaration/body/5/argument/1/3/1/1/3": {
+          content: {
+            de: "Melden Sie sich mit Ihrem bevorzugten Anbieter an, um fortzufahren",
+            en: "Sign in with your preferred provider to continue",
+            es: "Inicia sesión con tu proveedor preferido para continuar",
+            fr: "Connectez-vous avec votre fournisseur préféré pour continuer",
+          },
+          hash: "df49098049f42ebef8393621f17c4ac0",
+        },
+        "9/declaration/body/5/argument/1/3/1/3/3/1": {
+          content: {
+            de: "<element:GoogleIcon></element:GoogleIcon> Mit Google fortfahren",
+            en: "<element:GoogleIcon></element:GoogleIcon> Continue with Google",
+            es: "<element:GoogleIcon></element:GoogleIcon> Continuar con Google",
+            fr: "<element:GoogleIcon></element:GoogleIcon> Continuer avec Google",
+          },
+          hash: "749052c5252df271b5f585e252ef4fc4",
+        },
+        "9/declaration/body/5/argument/1/3/1/3/3/3": {
+          content: {
+            de: "<element:GitHubIcon></element:GitHubIcon> Mit GitHub fortfahren",
+            en: "<element:GitHubIcon></element:GitHubIcon> Continue with GitHub",
+            es: "<element:GitHubIcon></element:GitHubIcon> Continuar con GitHub",
+            fr: "<element:GitHubIcon></element:GitHubIcon> Continuer avec GitHub",
+          },
+          hash: "c6e0654016b4d1ba49058ea6b9e90594",
+        },
+        "9/declaration/body/5/argument/1/7/3": {
+          content: {
+            de: "Entdecke Events auf der Karte, tritt Communities bei und vernetze dich mit Menschen in deiner Nähe.",
+            en: "Discover events on the map, join communities, and connect with people near you.",
+            es: "Descubre eventos en el mapa, únete a comunidades y conecta con personas cerca de ti.",
+            fr: "Découvrez des événements sur la carte, rejoignez des communautés et connectez-vous avec des personnes près de chez vous.",
+          },
+          hash: "6cd6ca689940647b8676f5ece51700ec",
+        },
+        "9/declaration/body/5/argument/3/1/1/1": {
+          content: {
+            de: "Willkommen",
+            en: "Welcome",
+            es: "Bienvenido",
+            fr: "Bienvenue",
+          },
+          hash: "3180ad6b8de344b781637750259e0f53",
+        },
+        "9/declaration/body/5/argument/3/1/1/3": {
+          content: {
+            de: "Melden Sie sich mit Ihrem bevorzugten Anbieter an, um fortzufahren",
+            en: "Sign in with your preferred provider to continue",
+            es: "Inicia sesión con tu proveedor preferido para continuar",
+            fr: "Connectez-vous avec votre fournisseur préféré pour continuer",
+          },
+          hash: "1cbc77611bcf2cd1c2115ff7accf0b2d",
+        },
+        "9/declaration/body/5/argument/3/1/3/3/1": {
+          content: {
+            de: "<element:GoogleIcon></element:GoogleIcon> Mit Google fortfahren",
+            en: "<element:GoogleIcon></element:GoogleIcon> Continue with Google",
+            es: "<element:GoogleIcon></element:GoogleIcon> Continuar con Google",
+            fr: "<element:GoogleIcon></element:GoogleIcon> Continuer avec Google",
+          },
+          hash: "218c02f67f05a274455fb5eb5b3a3d61",
+        },
+        "9/declaration/body/5/argument/3/1/3/3/3": {
+          content: {
+            de: "<element:GitHubIcon></element:GitHubIcon> Mit GitHub fortfahren",
+            en: "<element:GitHubIcon></element:GitHubIcon> Continue with GitHub",
+            es: "<element:GitHubIcon></element:GitHubIcon> Continuar con GitHub",
+            fr: "<element:GitHubIcon></element:GitHubIcon> Continuer avec GitHub",
+          },
+          hash: "a6169fadc2ff57dfa82b7f26d110f463",
+        },
+        "9/declaration/body/5/argument/7/3": {
+          content: {
+            de: "Entdecken Sie Veranstaltungen auf der Karte, treten Sie Communities bei und vernetzen Sie sich mit Menschen in Ihrer Nähe.",
+            en: "Discover events on the map, join communities, and connect with people near you.",
+            es: "Descubre eventos en el mapa, únete a comunidades y conecta con personas cerca de ti.",
+            fr: "Découvrez des événements sur la carte, rejoignez des communautés et connectez-vous avec des personnes près de chez vous.",
+          },
+          hash: "cb63c780a557a2cb2d676cb9d81a3c13",
         },
       },
     },
     "app/dashboard/page.tsx": {
       entries: {
+        "3/declaration/body/0/argument/3/1/1": {
+          content: {
+            de: "Dashboard",
+            en: "Dashboard",
+            es: "Panel de control",
+            fr: "Tableau de bord",
+          },
+          hash: "c9380ea68c8c76ea451bd9613329a07c",
+        },
+        "3/declaration/body/0/argument/3/1/3": {
+          content: {
+            de: "Willkommen. Ihre Veranstaltungen und Foren werden hier angezeigt.",
+            en: "Welcome. Your events and forums will appear here.",
+            es: "Bienvenido. Tus eventos y foros aparecerán aquí.",
+            fr: "Bienvenue. Vos événements et forums apparaîtront ici.",
+          },
+          hash: "372e9662ac511643891f01e5f6e4d7d6",
+        },
+        "3/declaration/body/0/argument/3/1/5": {
+          content: {
+            de: "← Zurück zur Startseite",
+            en: "← Back to Home",
+            es: "← Volver al inicio",
+            fr: "← Retour à l'accueil",
+          },
+          hash: "e9c343ab112460921290c79d3d0e3d65",
+        },
         "4/declaration/body/2/argument/1": {
           content: {
             de: "Dashboard",
@@ -58,10 +604,10 @@ export default {
         },
         "4/declaration/body/2/argument/3": {
           content: {
-            de: "Willkommen, {session.user.email}. Ihre Veranstaltungen und Foren werden hier angezeigt.",
-            en: "Welcome, {session.user.email}. Your events and forums will appear here.",
-            es: "Bienvenido, {session.user.email}. Tus eventos y foros aparecerán aquí.",
-            fr: "Bienvenue, {session.user.email}. Vos événements et forums apparaîtront ici.",
+            de: "Willkommen. Ihre Veranstaltungen und Foren werden hier angezeigt.",
+            en: "Welcome. Your events and forums will appear here.",
+            es: "Bienvenido. Tus eventos y foros aparecerán aquí.",
+            fr: "Bienvenue. Vos événements et forums apparaîtront ici.",
           },
           hash: "d91bd113cffa9d0513babbcf0f3ac9f1",
         },
@@ -74,6 +620,33 @@ export default {
           },
           hash: "2b4fa9a4feb28b2023d9145b962f795f",
         },
+        "5/declaration/body/4/argument/3/1/1": {
+          content: {
+            de: "Dashboard",
+            en: "Dashboard",
+            es: "Panel de control",
+            fr: "Tableau de bord",
+          },
+          hash: "c9380ea68c8c76ea451bd9613329a07c",
+        },
+        "5/declaration/body/4/argument/3/1/3": {
+          content: {
+            de: "Willkommen, {displayName}. Ihre Veranstaltungen und Foren werden hier angezeigt.",
+            en: "Welcome, {displayName}. Your events and forums will appear here.",
+            es: "Bienvenido, {displayName}. Tus eventos y foros aparecerán aquí.",
+            fr: "Bienvenue, {displayName}. Vos événements et forums apparaîtront ici.",
+          },
+          hash: "7e7cd1cc63466d767b5e0594e606be27",
+        },
+        "5/declaration/body/4/argument/3/1/5": {
+          content: {
+            de: "← Zurück zur Startseite",
+            en: "← Back to Home",
+            es: "← Volver al inicio",
+            fr: "← Retour à l'accueil",
+          },
+          hash: "e9c343ab112460921290c79d3d0e3d65",
+        },
         "6/declaration/body/2/argument/3/1/1": {
           content: {
             de: "Dashboard",
@@ -85,10 +658,10 @@ export default {
         },
         "6/declaration/body/2/argument/3/1/3": {
           content: {
-            de: "Willkommen, {session.user.email}. Ihre Veranstaltungen und Foren werden hier angezeigt.",
-            en: "Welcome, {session.user.email}. Your events and forums will appear here.",
-            es: "Bienvenido, {session.user.email}. Tus eventos y foros aparecerán aquí.",
-            fr: "Bienvenue, {session.user.email}. Vos événements et forums apparaîtront ici.",
+            de: "Willkommen. Ihre Veranstaltungen und Foren werden hier angezeigt.",
+            en: "Welcome. Your events and forums will appear here.",
+            es: "Bienvenido. Tus eventos y foros aparecerán aquí.",
+            fr: "Bienvenue. Vos événements et forums apparaîtront ici.",
           },
           hash: "db9738c59b73df50a5cf1c5a408f7dcb",
         },
@@ -201,10 +774,10 @@ export default {
       entries: {
         "7/declaration/body/3/consequent/0/argument/1/1/1": {
           content: {
-            de: "Dieser Chat verwendet die Authentifizierung von tambo_ai mit better-auth. Um diesen Chat zu nutzen, richten Sie better-auth ein und kehren Sie dann hierher zurück.",
-            en: "This chat is using tambo_ai's authentication with better-auth. To use this chat setup better auth and then come back here.",
-            es: "Este chat está utilizando la autenticación de tambo_ai con better-auth. Para usar este chat, configura better-auth y luego regresa aquí.",
-            fr: "Ce chat utilise l'authentification de tambo_ai avec better-auth. Pour utiliser ce chat, configurez better-auth puis revenez ici.",
+            de: "Dieser Chat erfordert eine Authentifizierung. Bitte melden Sie sich an, um den Tambo AI Chat zu nutzen.",
+            en: "This chat requires authentication. Please sign in to use Tambo AI chat.",
+            es: "Este chat requiere autenticación. Por favor, inicia sesión para usar el chat de Tambo AI.",
+            fr: "Ce chat nécessite une authentification. Veuillez vous connecter pour utiliser le chat Tambo AI.",
           },
           hash: "fd4c466567350b321a7b253bee5f8812",
         },
@@ -458,108 +1031,6 @@ export default {
             fr: "Plus de messages, veuillez mettre à niveau !",
           },
           hash: "9dcd562dd86729836ee591b4e9b16944",
-        },
-      },
-    },
-    "components/better-auth/auth-buttons.tsx": {
-      entries: {
-        "1/declaration/body/0/argument/1": {
-          content: {
-            de: "Anmelden",
-            en: "Sign up",
-            es: "Registrarse",
-            fr: "S'inscrire",
-          },
-          hash: "9cd7c13e9cfe38a55848735995f42629",
-        },
-        "1/declaration/body/0/argument/3": {
-          content: {
-            de: "oder",
-            en: "or",
-            es: "o",
-            fr: "ou",
-          },
-          hash: "7b133c38bec0d5ee23cc6bcf9a8de50b",
-        },
-        "1/declaration/body/0/argument/5": {
-          content: {
-            de: "Einloggen",
-            en: "Log in",
-            es: "Iniciar sesión",
-            fr: "Se connecter",
-          },
-          hash: "8d2484d1cad09299980986924cadeede",
-        },
-      },
-    },
-    "components/better-auth/auth-form.tsx": {
-      entries: {
-        "3/declaration/body/3/argument/1-placeholder": {
-          content: {
-            de: "E-Mail",
-            en: "Email",
-            es: "Correo electrónico",
-            fr: "Email",
-          },
-          hash: "e7f34943a0c2fb849db1839ff6ef5cb5",
-        },
-        "3/declaration/body/3/argument/3-placeholder": {
-          content: {
-            de: "Passwort",
-            en: "Password",
-            es: "Contraseña",
-            fr: "Mot de passe",
-          },
-          hash: "223a61cf906ab9c40d22612c588dff48",
-        },
-        "3/declaration/body/3/argument/5/1/expression/alternate": {
-          content: {
-            de: "Weiter",
-            en: "Continue",
-            es: "Continuar",
-            fr: "Continuer",
-          },
-          hash: "3cfba90b4600131e82fc4260c568d044",
-        },
-        "3/declaration/body/3/argument/5/1/expression/consequent": {
-          content: {
-            de: "Laden...",
-            en: "Loading...",
-            es: "Cargando...",
-            fr: "Chargement...",
-          },
-          hash: "82b4ea7ed1439094d7c4be13aaba9a66",
-        },
-        "3/declaration/body/3/argument/7": {
-          content: {
-            de: "oder <element:Link>zurück zur Startseite</element:Link>",
-            en: "or <element:Link>go back to homepage</element:Link>",
-            es: "o <element:Link>volver a la página de inicio</element:Link>",
-            fr: "ou <element:Link>retourner à la page d'accueil</element:Link>",
-          },
-          hash: "78f90d3ce8a8cbadf84be5a011809dc6",
-        },
-      },
-    },
-    "components/better-auth/logout-button.tsx": {
-      entries: {
-        "3/declaration/body/3/argument/1": {
-          content: {
-            de: "Angemeldet als <element:strong>{userEmail}</element:strong>",
-            en: "Logged in as <element:strong>{userEmail}</element:strong>",
-            es: "Iniciado sesión como <element:strong>{userEmail}</element:strong>",
-            fr: "Connecté en tant que <element:strong>{userEmail}</element:strong>",
-          },
-          hash: "197fa541ee53d0410a4b2dc736993e81",
-        },
-        "3/declaration/body/3/argument/3": {
-          content: {
-            de: "Abmelden",
-            en: "Log out",
-            es: "Cerrar sesión",
-            fr: "Se déconnecter",
-          },
-          hash: "9d5c876c4949a5f075d83f2b2862f77f",
         },
       },
     },
@@ -1112,6 +1583,81 @@ export default {
     },
     "components/layout/Navbar.tsx": {
       entries: {
+        "14/declaration/body/6/argument/1/1/5/1/expression/alternate": {
+          content: {
+            de: "Anmelden",
+            en: "Sign In",
+            es: "Iniciar sesión",
+            fr: "Se connecter",
+          },
+          hash: "cec8d8644d3778dcd60ef6e8a6bd5241",
+        },
+        "14/declaration/body/6/argument/1/1/5/1/expression/consequent/3/1/1": {
+          content: {
+            de: "<element:LayoutDashboard></element:LayoutDashboard> Dashboard",
+            en: "<element:LayoutDashboard></element:LayoutDashboard> Dashboard",
+            es: "<element:LayoutDashboard></element:LayoutDashboard> Panel",
+            fr: "<element:LayoutDashboard></element:LayoutDashboard> Tableau de bord",
+          },
+          hash: "e9b3f6cf0fcc90eb6b528fac5cbe156f",
+        },
+        "14/declaration/body/6/argument/1/1/5/1/expression/consequent/3/3": {
+          content: {
+            de: "<element:LogOut></element:LogOut> Abmelden",
+            en: "<element:LogOut></element:LogOut> Sign Out",
+            es: "<element:LogOut></element:LogOut> Cerrar sesión",
+            fr: "<element:LogOut></element:LogOut> Se déconnecter",
+          },
+          hash: "9168f418bbdac7d58efee234f078b8d3",
+        },
+        "15/declaration/body/6/argument/1/1/5/1/1/expression/alternate/consequent/3/1/1":
+          {
+            content: {
+              de: "<element:LayoutDashboard></element:LayoutDashboard> Dashboard",
+              en: "<element:LayoutDashboard></element:LayoutDashboard> Dashboard",
+              es: "<element:LayoutDashboard></element:LayoutDashboard> Panel de control",
+              fr: "<element:LayoutDashboard></element:LayoutDashboard> Tableau de bord",
+            },
+            hash: "37bca3693ce806b11037e57df9906211",
+          },
+        "15/declaration/body/6/argument/1/1/5/1/1/expression/alternate/consequent/3/3":
+          {
+            content: {
+              de: "<element:LogOut></element:LogOut> Abmelden",
+              en: "<element:LogOut></element:LogOut> Sign Out",
+              es: "<element:LogOut></element:LogOut> Cerrar sesión",
+              fr: "<element:LogOut></element:LogOut> Se déconnecter",
+            },
+            hash: "42cf91113ec7db43e7a5c5ee5ced5aeb",
+          },
+        "15/declaration/body/6/argument/1/1/5/1/1/expression/consequent-aria-label":
+          {
+            content: {
+              de: "Lädt",
+              en: "Loading",
+              es: "Cargando",
+              fr: "Chargement",
+            },
+            hash: "c6bc8c380e83336c81a92594d3f23000",
+          },
+        "15/declaration/body/6/argument/1/1/5/1/expression/consequent/3/1/1": {
+          content: {
+            de: "<element:LayoutDashboard></element:LayoutDashboard> Dashboard",
+            en: "<element:LayoutDashboard></element:LayoutDashboard> Dashboard",
+            es: "<element:LayoutDashboard></element:LayoutDashboard> Panel",
+            fr: "<element:LayoutDashboard></element:LayoutDashboard> Tableau de bord",
+          },
+          hash: "e9b3f6cf0fcc90eb6b528fac5cbe156f",
+        },
+        "15/declaration/body/6/argument/1/1/5/1/expression/consequent/3/3": {
+          content: {
+            de: "<element:LogOut></element:LogOut> Abmelden",
+            en: "<element:LogOut></element:LogOut> Sign Out",
+            es: "<element:LogOut></element:LogOut> Cerrar sesión",
+            fr: "<element:LogOut></element:LogOut> Se déconnecter",
+          },
+          hash: "9168f418bbdac7d58efee234f078b8d3",
+        },
         "5/declaration/body/1/argument/1/3/1": {
           content: {
             de: "Startseite",
@@ -1147,46 +1693,6 @@ export default {
             fr: "Tableau de bord",
           },
           hash: "a74bff76def2999a7fdd10df9f014f3c",
-        },
-      },
-    },
-    "components/layout/NavbarAuth.tsx": {
-      entries: {
-        "4/declaration/body/3/consequent/0/argument/1": {
-          content: {
-            de: "Dashboard",
-            en: "Dashboard",
-            es: "Panel",
-            fr: "Tableau de bord",
-          },
-          hash: "04ab3eae9af188fb7cff6c75f32744fa",
-        },
-        "4/declaration/body/3/consequent/0/argument/5": {
-          content: {
-            de: "Abmelden",
-            en: "Log out",
-            es: "Cerrar sesión",
-            fr: "Se déconnecter",
-          },
-          hash: "91f9b6381c6ebba6e3828a4fadceec01",
-        },
-        "4/declaration/body/4/argument/1": {
-          content: {
-            de: "Einloggen",
-            en: "Log in",
-            es: "Iniciar sesión",
-            fr: "Se connecter",
-          },
-          hash: "8d2484d1cad09299980986924cadeede",
-        },
-        "4/declaration/body/4/argument/3": {
-          content: {
-            de: "Anmelden",
-            en: "Sign up",
-            es: "Registrarse",
-            fr: "S'inscrire",
-          },
-          hash: "9cd7c13e9cfe38a55848735995f42629",
         },
       },
     },
@@ -2231,6 +2737,28 @@ export default {
             fr: "Diapositive suivante",
           },
           hash: "c76993309a88cf9f8a3a7fca7b5d7896",
+        },
+      },
+    },
+    "components/ui/dialog.tsx": {
+      entries: {
+        "10/body/0/argument/3/3/expression/right/3": {
+          content: {
+            de: "Schließen",
+            en: "Close",
+            es: "Cerrar",
+            fr: "Fermer",
+          },
+          hash: "2c2e22f8424a1031de89063bd0022e16",
+        },
+        "12/body/0/argument/3/expression/right/1": {
+          content: {
+            de: "Schließen",
+            en: "Close",
+            es: "Cerrar",
+            fr: "Fermer",
+          },
+          hash: "2c2e22f8424a1031de89063bd0022e16",
         },
       },
     },

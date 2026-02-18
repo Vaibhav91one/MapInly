@@ -30,6 +30,7 @@ export default function ExploreMapSection() {
           <ScrollRotatingAsterisk
             className="absolute left-1/2 bottom-0 -translate-x-1/2 translate-y-1/2 -z-10 size-25"
             size="size-25"
+            mode="scroll"
           />
           <Map center={[-74.006, 40.7128]} zoom={10} className="absolute inset-0 z-10">
             <MapControls position="bottom-right" showZoom />
