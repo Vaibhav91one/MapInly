@@ -3,13 +3,20 @@ import { Resend } from "resend";
 import fs from "fs";
 import path from "path";
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+function getResend() {
+  const apiKey = process.env.RESEND_API_KEY;
+  if (!apiKey) {
+    throw new Error("RESEND_API_KEY is not configured");
+  }
+  return new Resend(apiKey);
+}
 
 export async function POST(request: Request) {
   const locale = await getLocale();
   const { name, email } = await request.json();
 
   try {
+    const resend = getResend();
     const { subject, body } = loadTemplate(locale);
     const { data, error } = await resend.emails.send({
       from: process.env.RESEND_FROM_EMAIL ?? "Acme <from@example.com>",

@@ -45,8 +45,147 @@ export default {
         },
       },
     },
+    "app/dashboard/page.tsx": {
+      entries: {
+        "4/declaration/body/2/argument/1": {
+          content: {
+            de: "Dashboard",
+            en: "Dashboard",
+            es: "Panel de control",
+            fr: "Tableau de bord",
+          },
+          hash: "c9380ea68c8c76ea451bd9613329a07c",
+        },
+        "4/declaration/body/2/argument/3": {
+          content: {
+            de: "Willkommen, {session.user.email}. Ihre Veranstaltungen und Foren werden hier angezeigt.",
+            en: "Welcome, {session.user.email}. Your events and forums will appear here.",
+            es: "Bienvenido, {session.user.email}. Tus eventos y foros aparecerán aquí.",
+            fr: "Bienvenue, {session.user.email}. Vos événements et forums apparaîtront ici.",
+          },
+          hash: "d91bd113cffa9d0513babbcf0f3ac9f1",
+        },
+        "4/declaration/body/2/argument/5": {
+          content: {
+            de: "← Zurück zur Startseite",
+            en: "← Back to Home",
+            es: "← Volver al inicio",
+            fr: "← Retour à l'accueil",
+          },
+          hash: "2b4fa9a4feb28b2023d9145b962f795f",
+        },
+        "6/declaration/body/2/argument/3/1/1": {
+          content: {
+            de: "Dashboard",
+            en: "Dashboard",
+            es: "Panel de control",
+            fr: "Tableau de bord",
+          },
+          hash: "c9380ea68c8c76ea451bd9613329a07c",
+        },
+        "6/declaration/body/2/argument/3/1/3": {
+          content: {
+            de: "Willkommen, {session.user.email}. Ihre Veranstaltungen und Foren werden hier angezeigt.",
+            en: "Welcome, {session.user.email}. Your events and forums will appear here.",
+            es: "Bienvenido, {session.user.email}. Tus eventos y foros aparecerán aquí.",
+            fr: "Bienvenue, {session.user.email}. Vos événements et forums apparaîtront ici.",
+          },
+          hash: "db9738c59b73df50a5cf1c5a408f7dcb",
+        },
+        "6/declaration/body/2/argument/3/1/5": {
+          content: {
+            de: "← Zurück zur Startseite",
+            en: "← Back to Home",
+            es: "← Volver al inicio",
+            fr: "← Retour à l'accueil",
+          },
+          hash: "e9c343ab112460921290c79d3d0e3d65",
+        },
+      },
+    },
     "app/page.tsx": {
       entries: {
+        "4/declaration/body/2/argument/1": {
+          content: {
+            de: "Willkommen bei Lingo Events",
+            en: "Welcome to Lingo Events",
+            es: "Bienvenido a Lingo Events",
+            fr: "Bienvenue sur Lingo Events",
+          },
+          hash: "6e6977484c0a0d312d4c7e17d4983a25",
+        },
+        "4/declaration/body/2/argument/3": {
+          content: {
+            de: "Entdecke Events auf der Karte, tritt Communities bei und vernetze dich mit Menschen in deiner Nähe. Entwickelt mit Lingo.dev für vollständige mehrsprachige Unterstützung.",
+            en: "Discover events on the map, join communities, and connect with people near you. Built with Lingo.dev for full multilingual support.",
+            es: "Descubre eventos en el mapa, únete a comunidades y conecta con personas cerca de ti. Desarrollado con Lingo.dev para soporte multilingüe completo.",
+            fr: "Découvrez des événements sur la carte, rejoignez des communautés et connectez-vous avec des personnes près de chez vous. Créé avec Lingo.dev pour une prise en charge multilingue complète.",
+          },
+          hash: "b292a8d557719b87e14ffb75542b5716",
+        },
+        "4/declaration/body/2/argument/7/expression/right": {
+          content: {
+            de: "Zum Dashboard",
+            en: "Go to Dashboard",
+            es: "Ir al panel",
+            fr: "Accéder au tableau de bord",
+          },
+          hash: "613869ddb8e1edfc72fbf018ea4da843",
+        },
+        "6/declaration/body/2/argument/3/1/1": {
+          content: {
+            de: "Willkommen bei Lingo Events",
+            en: "Welcome to Lingo Events",
+            es: "Bienvenido a Lingo Events",
+            fr: "Bienvenue sur Lingo Events",
+          },
+          hash: "8858bece5e9090e5fb38092dc1dd9aa2",
+        },
+        "6/declaration/body/2/argument/3/1/3": {
+          content: {
+            de: "Entdecken Sie Veranstaltungen auf der Karte, treten Sie Communities bei und vernetzen Sie sich mit Menschen in Ihrer Nähe. Entwickelt mit Lingo.dev für vollständige mehrsprachige Unterstützung.",
+            en: "Discover events on the map, join communities, and connect with people near you. Built with Lingo.dev for full multilingual support.",
+            es: "Descubre eventos en el mapa, únete a comunidades y conecta con personas cerca de ti. Desarrollado con Lingo.dev para soporte multilingüe completo.",
+            fr: "Découvrez des événements sur la carte, rejoignez des communautés et connectez-vous avec des personnes près de chez vous. Développé avec Lingo.dev pour une prise en charge multilingue complète.",
+          },
+          hash: "972f7c17b40f80cc5d24b2566c746925",
+        },
+        "6/declaration/body/2/argument/3/1/7/expression/right": {
+          content: {
+            de: "Zum Dashboard",
+            en: "Go to Dashboard",
+            es: "Ir al panel",
+            fr: "Accéder au tableau de bord",
+          },
+          hash: "eaaf45d988e7c6b07ee322321a3b85ab",
+        },
+        "6/declaration/body/2/argument/5/1/1": {
+          content: {
+            de: "Willkommen bei Lingo Events",
+            en: "Welcome to Lingo Events",
+            es: "Bienvenido a Lingo Events",
+            fr: "Bienvenue sur Lingo Events",
+          },
+          hash: "8858bece5e9090e5fb38092dc1dd9aa2",
+        },
+        "6/declaration/body/2/argument/5/1/3": {
+          content: {
+            de: "Entdecken Sie Veranstaltungen auf der Karte, treten Sie Communities bei und vernetzen Sie sich mit Menschen in Ihrer Nähe. Entwickelt mit Lingo.dev für vollständige mehrsprachige Unterstützung.",
+            en: "Discover events on the map, join communities, and connect with people near you. Built with Lingo.dev for full multilingual support.",
+            es: "Descubre eventos en el mapa, únete a comunidades y conecta con personas cerca de ti. Desarrollado con Lingo.dev para soporte multilingüe completo.",
+            fr: "Découvrez des événements sur la carte, rejoignez des communautés et connectez-vous avec des personnes près de chez vous. Développé avec Lingo.dev pour une prise en charge multilingue complète.",
+          },
+          hash: "972f7c17b40f80cc5d24b2566c746925",
+        },
+        "6/declaration/body/2/argument/5/1/7/expression/right": {
+          content: {
+            de: "Zum Dashboard",
+            en: "Go to Dashboard",
+            es: "Ir al panel",
+            fr: "Accéder au tableau de bord",
+          },
+          hash: "eaaf45d988e7c6b07ee322321a3b85ab",
+        },
         "9/declaration/body/2/argument/1": {
           content: {
             de: "Willkommen zu <element:AuroraText>CustomHack train</element:AuroraText>",
@@ -424,6 +563,19 @@ export default {
         },
       },
     },
+    "components/communities/CommunityCard.tsx": {
+      entries: {
+        "5/declaration/body/1/argument/1/3/1": {
+          content: {
+            de: "Beitreten",
+            en: "Join",
+            es: "Unirse",
+            fr: "Rejoindre",
+          },
+          hash: "6d9cfc0064832d7ea89d18cd9d986c5c",
+        },
+      },
+    },
     "components/firecrawl/form.tsx": {
       entries: {
         "2/declaration/body/3/argument/1-placeholder": {
@@ -501,6 +653,553 @@ export default {
             fr: "{key}:",
           },
           hash: "85187d9f080dfa98ed18f83e2ff12f89",
+        },
+      },
+    },
+    "components/layout/Footer.tsx": {
+      entries: {
+        "1/declaration/body/1/argument/1/1/1": {
+          content: {
+            de: "© {currentYear} <element:span>Lingo Events</element:span>. Alle Rechte vorbehalten.",
+            en: "© {currentYear} <element:span>Lingo Events</element:span>. All rights reserved.",
+            es: "© {currentYear} <element:span>Lingo Events</element:span>. Todos los derechos reservados.",
+            fr: "© {currentYear} <element:span>Lingo Events</element:span>. Tous droits réservés.",
+          },
+          hash: "8ad7f4ee84d339678d6ba481255d6e36",
+        },
+        "1/declaration/body/1/argument/1/1/3/1": {
+          content: {
+            de: "Startseite",
+            en: "Home",
+            es: "Inicio",
+            fr: "Accueil",
+          },
+          hash: "137758680d0d6cf4d0dfc3b23be5cad3",
+        },
+        "1/declaration/body/1/argument/1/1/3/3": {
+          content: {
+            de: "Veranstaltungen",
+            en: "Events",
+            es: "Eventos",
+            fr: "Événements",
+          },
+          hash: "73c71abc730e32e3ef0b154a69bd3869",
+        },
+        "1/declaration/body/1/argument/1/1/3/5": {
+          content: {
+            de: "Foren",
+            en: "Forums",
+            es: "Foros",
+            fr: "Forums",
+          },
+          hash: "9b5c3309bdac502b2ba0e4b387ed584b",
+        },
+        "7/declaration/body/0/argument/1/1/3/3": {
+          content: {
+            de: "hello@lingoevents.com",
+            en: "hello@lingoevents.com",
+            es: "hello@lingoevents.com",
+            fr: "hello@lingoevents.com",
+          },
+          hash: "869858080c8714167550be040cf712e1",
+        },
+        "7/declaration/body/0/argument/1/1/7/3/5/1": {
+          content: {
+            de: "Loslegen",
+            en: "Get Started",
+            es: "Comenzar",
+            fr: "Commencer",
+          },
+          hash: "ca8c7615e25781bd86a72e52b23d5eeb",
+        },
+        "7/declaration/body/0/argument/1/1/7/3/7": {
+          content: {
+            de: "©2026 Lingo Events. Alle Rechte vorbehalten.",
+            en: "©2026 Lingo Events. All rights reserved.",
+            es: "©2026 Lingo Events. Todos los derechos reservados.",
+            fr: "©2026 Lingo Events. Tous droits réservés.",
+          },
+          hash: "2625c68b9dad3d05fedc3285d04f5f67",
+        },
+        "7/declaration/body/0/argument/1/1/7/7/11/1": {
+          content: {
+            de: "Soziale Medien",
+            en: "Socials",
+            es: "Redes sociales",
+            fr: "Réseaux sociaux",
+          },
+          hash: "768c6c8561af75d72f7b38551914348f",
+        },
+        "7/declaration/body/0/argument/1/1/7/7/3/1": {
+          content: {
+            de: "Rechtliches",
+            en: "Legal",
+            es: "Legal",
+            fr: "Mentions légales",
+          },
+          hash: "39ec305838e9c4948b310f75d2d72c04",
+        },
+        "7/declaration/body/0/argument/1/1/7/7/3/3": {
+          content: {
+            de: "Datenschutzerklärung",
+            en: "Privacy Policy",
+            es: "Política de privacidad",
+            fr: "Politique de confidentialité",
+          },
+          hash: "338ec260ef372e086a7dc2f82371013f",
+        },
+        "7/declaration/body/0/argument/1/1/7/7/3/5": {
+          content: {
+            de: "Allgemeine Geschäftsbedingungen",
+            en: "Terms & Conditions",
+            es: "Términos y condiciones",
+            fr: "Conditions générales",
+          },
+          hash: "ecc9a9f9f629b85e5b6ba530085b268a",
+        },
+        "7/declaration/body/0/argument/1/1/7/7/7/1": {
+          content: {
+            de: "Seiten",
+            en: "Pages",
+            es: "Páginas",
+            fr: "Pages",
+          },
+          hash: "933ba531f6899c26988ddc3a6745484d",
+        },
+        "7/declaration/body/0/argument/1/1/7/7/7/3": {
+          content: {
+            de: "Startseite",
+            en: "Home",
+            es: "Inicio",
+            fr: "Accueil",
+          },
+          hash: "89b45c8ef55fe6270819799862f07ca9",
+        },
+        "7/declaration/body/0/argument/1/1/7/7/7/5": {
+          content: {
+            de: "Veranstaltungen",
+            en: "Events",
+            es: "Eventos",
+            fr: "Événements",
+          },
+          hash: "9d29c1006b93c4ed35860f4c1ccc4754",
+        },
+        "7/declaration/body/0/argument/1/1/7/7/7/7": {
+          content: {
+            de: "Foren",
+            en: "Forums",
+            es: "Foros",
+            fr: "Forums",
+          },
+          hash: "ff3510ff551dd23f50edd77cc15e9ebd",
+        },
+        "7/declaration/body/0/argument/1/1/7/7/7/9": {
+          content: {
+            de: "Dashboard",
+            en: "Dashboard",
+            es: "Panel de control",
+            fr: "Tableau de bord",
+          },
+          hash: "a8bd7d4a57d651051cc7c786106d8fae",
+        },
+        "8/declaration/body/0/argument/1/1/7/3/5/1": {
+          content: {
+            de: "Loslegen",
+            en: "Get Started",
+            es: "Comenzar",
+            fr: "Commencer",
+          },
+          hash: "ca8c7615e25781bd86a72e52b23d5eeb",
+        },
+        "8/declaration/body/0/argument/1/1/7/3/7": {
+          content: {
+            de: "©2026 Lingo Events. Alle Rechte vorbehalten.",
+            en: "©2026 Lingo Events. All rights reserved.",
+            es: "©2026 Lingo Events. Todos los derechos reservados.",
+            fr: "©2026 Lingo Events. Tous droits réservés.",
+          },
+          hash: "2625c68b9dad3d05fedc3285d04f5f67",
+        },
+        "8/declaration/body/0/argument/1/1/7/7/11/1": {
+          content: {
+            de: "Soziale Medien",
+            en: "Socials",
+            es: "Redes sociales",
+            fr: "Réseaux sociaux",
+          },
+          hash: "768c6c8561af75d72f7b38551914348f",
+        },
+        "8/declaration/body/0/argument/1/1/7/7/3/1": {
+          content: {
+            de: "Rechtliches",
+            en: "Legal",
+            es: "Legal",
+            fr: "Mentions légales",
+          },
+          hash: "39ec305838e9c4948b310f75d2d72c04",
+        },
+        "8/declaration/body/0/argument/1/1/7/7/3/3": {
+          content: {
+            de: "Datenschutzerklärung",
+            en: "Privacy Policy",
+            es: "Política de privacidad",
+            fr: "Politique de confidentialité",
+          },
+          hash: "338ec260ef372e086a7dc2f82371013f",
+        },
+        "8/declaration/body/0/argument/1/1/7/7/3/5": {
+          content: {
+            de: "Allgemeine Geschäftsbedingungen",
+            en: "Terms & Conditions",
+            es: "Términos y condiciones",
+            fr: "Conditions générales",
+          },
+          hash: "ecc9a9f9f629b85e5b6ba530085b268a",
+        },
+        "8/declaration/body/0/argument/1/1/7/7/7/1": {
+          content: {
+            de: "Seiten",
+            en: "Pages",
+            es: "Páginas",
+            fr: "Pages",
+          },
+          hash: "933ba531f6899c26988ddc3a6745484d",
+        },
+        "8/declaration/body/0/argument/1/1/7/7/7/3": {
+          content: {
+            de: "Startseite",
+            en: "Home",
+            es: "Inicio",
+            fr: "Accueil",
+          },
+          hash: "89b45c8ef55fe6270819799862f07ca9",
+        },
+        "8/declaration/body/0/argument/1/1/7/7/7/5": {
+          content: {
+            de: "Veranstaltungen",
+            en: "Events",
+            es: "Eventos",
+            fr: "Événements",
+          },
+          hash: "9d29c1006b93c4ed35860f4c1ccc4754",
+        },
+        "8/declaration/body/0/argument/1/1/7/7/7/7": {
+          content: {
+            de: "Foren",
+            en: "Forums",
+            es: "Foros",
+            fr: "Forums",
+          },
+          hash: "ff3510ff551dd23f50edd77cc15e9ebd",
+        },
+        "8/declaration/body/0/argument/1/1/7/7/7/9": {
+          content: {
+            de: "Dashboard",
+            en: "Dashboard",
+            es: "Panel de control",
+            fr: "Tableau de bord",
+          },
+          hash: "a8bd7d4a57d651051cc7c786106d8fae",
+        },
+        "8/declaration/body/0/argument/5/1/3/3": {
+          content: {
+            de: "hello@lingoevents.com",
+            en: "hello@lingoevents.com",
+            es: "hello@lingoevents.com",
+            fr: "hello@lingoevents.com",
+          },
+          hash: "869858080c8714167550be040cf712e1",
+        },
+        "8/declaration/body/0/argument/5/1/7/3/5/1": {
+          content: {
+            de: "Loslegen",
+            en: "Get Started",
+            es: "Comenzar",
+            fr: "Commencer",
+          },
+          hash: "ca8c7615e25781bd86a72e52b23d5eeb",
+        },
+        "8/declaration/body/0/argument/5/1/7/3/7": {
+          content: {
+            de: "©2026 Lingo Events. Alle Rechte vorbehalten.",
+            en: "©2026 Lingo Events. All rights reserved.",
+            es: "©2026 Lingo Events. Todos los derechos reservados.",
+            fr: "©2026 Lingo Events. Tous droits réservés.",
+          },
+          hash: "2625c68b9dad3d05fedc3285d04f5f67",
+        },
+        "8/declaration/body/0/argument/5/1/7/7/11/1": {
+          content: {
+            de: "Soziale Medien",
+            en: "Socials",
+            es: "Redes sociales",
+            fr: "Réseaux sociaux",
+          },
+          hash: "768c6c8561af75d72f7b38551914348f",
+        },
+        "8/declaration/body/0/argument/5/1/7/7/3/1": {
+          content: {
+            de: "Rechtliches",
+            en: "Legal",
+            es: "Legal",
+            fr: "Mentions légales",
+          },
+          hash: "39ec305838e9c4948b310f75d2d72c04",
+        },
+        "8/declaration/body/0/argument/5/1/7/7/3/3": {
+          content: {
+            de: "Datenschutzerklärung",
+            en: "Privacy Policy",
+            es: "Política de privacidad",
+            fr: "Politique de confidentialité",
+          },
+          hash: "338ec260ef372e086a7dc2f82371013f",
+        },
+        "8/declaration/body/0/argument/5/1/7/7/3/5": {
+          content: {
+            de: "Allgemeine Geschäftsbedingungen",
+            en: "Terms & Conditions",
+            es: "Términos y condiciones",
+            fr: "Conditions générales",
+          },
+          hash: "ecc9a9f9f629b85e5b6ba530085b268a",
+        },
+        "8/declaration/body/0/argument/5/1/7/7/7/1": {
+          content: {
+            de: "Seiten",
+            en: "Pages",
+            es: "Páginas",
+            fr: "Pages",
+          },
+          hash: "933ba531f6899c26988ddc3a6745484d",
+        },
+        "8/declaration/body/0/argument/5/1/7/7/7/3": {
+          content: {
+            de: "Startseite",
+            en: "Home",
+            es: "Inicio",
+            fr: "Accueil",
+          },
+          hash: "89b45c8ef55fe6270819799862f07ca9",
+        },
+        "8/declaration/body/0/argument/5/1/7/7/7/5": {
+          content: {
+            de: "Veranstaltungen",
+            en: "Events",
+            es: "Eventos",
+            fr: "Événements",
+          },
+          hash: "9d29c1006b93c4ed35860f4c1ccc4754",
+        },
+        "8/declaration/body/0/argument/5/1/7/7/7/7": {
+          content: {
+            de: "Foren",
+            en: "Forums",
+            es: "Foros",
+            fr: "Forums",
+          },
+          hash: "ff3510ff551dd23f50edd77cc15e9ebd",
+        },
+        "8/declaration/body/0/argument/5/1/7/7/7/9": {
+          content: {
+            de: "Dashboard",
+            en: "Dashboard",
+            es: "Panel de control",
+            fr: "Tableau de bord",
+          },
+          hash: "a8bd7d4a57d651051cc7c786106d8fae",
+        },
+        "9/declaration/body/0/argument/5/1/7/3/5/1": {
+          content: {
+            de: "Loslegen",
+            en: "Get Started",
+            es: "Comenzar",
+            fr: "Commencer",
+          },
+          hash: "ca8c7615e25781bd86a72e52b23d5eeb",
+        },
+        "9/declaration/body/0/argument/5/1/7/3/7": {
+          content: {
+            de: "©2026 Lingo Events. Alle Rechte vorbehalten.",
+            en: "©2026 Lingo Events. All rights reserved.",
+            es: "©2026 Lingo Events. Todos los derechos reservados.",
+            fr: "©2026 Lingo Events. Tous droits réservés.",
+          },
+          hash: "2625c68b9dad3d05fedc3285d04f5f67",
+        },
+        "9/declaration/body/0/argument/5/1/7/7/11/1": {
+          content: {
+            de: "Soziale Medien",
+            en: "Socials",
+            es: "Redes sociales",
+            fr: "Réseaux sociaux",
+          },
+          hash: "768c6c8561af75d72f7b38551914348f",
+        },
+        "9/declaration/body/0/argument/5/1/7/7/3/1": {
+          content: {
+            de: "Rechtliches",
+            en: "Legal",
+            es: "Legal",
+            fr: "Mentions légales",
+          },
+          hash: "39ec305838e9c4948b310f75d2d72c04",
+        },
+        "9/declaration/body/0/argument/5/1/7/7/3/3": {
+          content: {
+            de: "Datenschutzerklärung",
+            en: "Privacy Policy",
+            es: "Política de privacidad",
+            fr: "Politique de confidentialité",
+          },
+          hash: "338ec260ef372e086a7dc2f82371013f",
+        },
+        "9/declaration/body/0/argument/5/1/7/7/3/5": {
+          content: {
+            de: "Allgemeine Geschäftsbedingungen",
+            en: "Terms & Conditions",
+            es: "Términos y condiciones",
+            fr: "Conditions générales",
+          },
+          hash: "ecc9a9f9f629b85e5b6ba530085b268a",
+        },
+        "9/declaration/body/0/argument/5/1/7/7/7/1": {
+          content: {
+            de: "Seiten",
+            en: "Pages",
+            es: "Páginas",
+            fr: "Pages",
+          },
+          hash: "933ba531f6899c26988ddc3a6745484d",
+        },
+        "9/declaration/body/0/argument/5/1/7/7/7/3": {
+          content: {
+            de: "Startseite",
+            en: "Home",
+            es: "Inicio",
+            fr: "Accueil",
+          },
+          hash: "89b45c8ef55fe6270819799862f07ca9",
+        },
+        "9/declaration/body/0/argument/5/1/7/7/7/5": {
+          content: {
+            de: "Veranstaltungen",
+            en: "Events",
+            es: "Eventos",
+            fr: "Événements",
+          },
+          hash: "9d29c1006b93c4ed35860f4c1ccc4754",
+        },
+        "9/declaration/body/0/argument/5/1/7/7/7/7": {
+          content: {
+            de: "Foren",
+            en: "Forums",
+            es: "Foros",
+            fr: "Forums",
+          },
+          hash: "ff3510ff551dd23f50edd77cc15e9ebd",
+        },
+        "9/declaration/body/0/argument/5/1/7/7/7/9": {
+          content: {
+            de: "Dashboard",
+            en: "Dashboard",
+            es: "Panel de control",
+            fr: "Tableau de bord",
+          },
+          hash: "a8bd7d4a57d651051cc7c786106d8fae",
+        },
+      },
+    },
+    "components/layout/Navbar.tsx": {
+      entries: {
+        "5/declaration/body/1/argument/1/3/1": {
+          content: {
+            de: "Startseite",
+            en: "Home",
+            es: "Inicio",
+            fr: "Accueil",
+          },
+          hash: "6e592a07b0ea45b3c32726c8d6dfa1cf",
+        },
+        "5/declaration/body/1/argument/1/3/3": {
+          content: {
+            de: "Veranstaltungen",
+            en: "Events",
+            es: "Eventos",
+            fr: "Événements",
+          },
+          hash: "324e32a2b3591e1b3fb3af7666c5c67a",
+        },
+        "5/declaration/body/1/argument/1/3/5": {
+          content: {
+            de: "Foren",
+            en: "Forums",
+            es: "Foros",
+            fr: "Forums",
+          },
+          hash: "54a8169a07795174faf4ed79984b4561",
+        },
+        "5/declaration/body/1/argument/1/3/7": {
+          content: {
+            de: "Dashboard",
+            en: "Dashboard",
+            es: "Panel",
+            fr: "Tableau de bord",
+          },
+          hash: "a74bff76def2999a7fdd10df9f014f3c",
+        },
+      },
+    },
+    "components/layout/NavbarAuth.tsx": {
+      entries: {
+        "4/declaration/body/3/consequent/0/argument/1": {
+          content: {
+            de: "Dashboard",
+            en: "Dashboard",
+            es: "Panel",
+            fr: "Tableau de bord",
+          },
+          hash: "04ab3eae9af188fb7cff6c75f32744fa",
+        },
+        "4/declaration/body/3/consequent/0/argument/5": {
+          content: {
+            de: "Abmelden",
+            en: "Log out",
+            es: "Cerrar sesión",
+            fr: "Se déconnecter",
+          },
+          hash: "91f9b6381c6ebba6e3828a4fadceec01",
+        },
+        "4/declaration/body/4/argument/1": {
+          content: {
+            de: "Einloggen",
+            en: "Log in",
+            es: "Iniciar sesión",
+            fr: "Se connecter",
+          },
+          hash: "8d2484d1cad09299980986924cadeede",
+        },
+        "4/declaration/body/4/argument/3": {
+          content: {
+            de: "Anmelden",
+            en: "Sign up",
+            es: "Registrarse",
+            fr: "S'inscrire",
+          },
+          hash: "9cd7c13e9cfe38a55848735995f42629",
+        },
+      },
+    },
+    "components/layout/NotificationBanner.tsx": {
+      entries: {
+        "3/declaration/body/0/argument/1/3": {
+          content: {
+            de: "Entwickelt für den lingodev Multilingual Hackathon von <element:Link>Vaibhav91one</element:Link>",
+            en: "Built for lingodev Multilingual hackathon by <element:Link>Vaibhav91one</element:Link>",
+            es: "Creado para el hackathon multilingüe de lingodev por <element:Link>Vaibhav91one</element:Link>",
+            fr: "Créé pour le hackathon multilingue lingodev par <element:Link>Vaibhav91one</element:Link>",
+          },
+          hash: "72b424bc03735870682ae99502b12009",
         },
       },
     },
@@ -630,6 +1329,532 @@ export default {
           },
       },
     },
+    "components/section/dashboard/DashboardOverviewSection.tsx": {
+      entries: {
+        "1/declaration/body/0/argument/1/1": {
+          content: {
+            de: "Dashboard-Übersichtsbereich",
+            en: "Dashboard Overview Section",
+            es: "Sección de resumen del panel",
+            fr: "Section aperçu du tableau de bord",
+          },
+          hash: "cdaa06e54d5d1783ed9ca7701b481b98",
+        },
+      },
+    },
+    "components/section/events/EventsMapSection.tsx": {
+      entries: {
+        "1/declaration/body/0/argument/1/1": {
+          content: {
+            de: "Veranstaltungskarten-Bereich",
+            en: "Events Map Section",
+            es: "Sección de mapa de eventos",
+            fr: "Section carte des événements",
+          },
+          hash: "4ba1f0ad294add566a08aeb530fc0bd1",
+        },
+      },
+    },
+    "components/section/forums/ForumsListSection.tsx": {
+      entries: {
+        "1/declaration/body/0/argument/1/1": {
+          content: {
+            de: "Forenlisten-Bereich",
+            en: "Forums List Section",
+            es: "Sección de lista de foros",
+            fr: "Section liste des forums",
+          },
+          hash: "63002760de2226226993863d572f4f1a",
+        },
+      },
+    },
+    "components/section/home/CTASection.tsx": {
+      entries: {
+        "1/declaration/body/0/argument/1/1": {
+          content: {
+            de: "Call-to-Action",
+            en: "Call to action",
+            es: "Llamada a la acción",
+            fr: "Appel à l'action",
+          },
+          hash: "4249843adbdd0456179921a69c984815",
+        },
+        "3/declaration/body/0/argument/1/1": {
+          content: {
+            de: "Bereit, dich zu vernetzen?",
+            en: "Ready to connect?",
+            es: "¿Listo para conectar?",
+            fr: "Prêt à vous connecter ?",
+          },
+          hash: "d6fb2722ab24079e5a318bb5f820f087",
+        },
+        "3/declaration/body/0/argument/1/3": {
+          content: {
+            de: "Tritt Events und Communities in deiner Nähe bei",
+            en: "Join events and communities near you",
+            es: "Únete a eventos y comunidades cerca de ti",
+            fr: "Rejoignez des événements et des communautés près de chez vous",
+          },
+          hash: "93582b45cce2bdf70b7cb929c40f01ea",
+        },
+      },
+    },
+    "components/section/home/ExploreMapSection.tsx": {
+      entries: {
+        "1/declaration/body/0/argument/1/1": {
+          content: {
+            de: "Auf Karte erkunden",
+            en: "Explore on map",
+            es: "Explorar en el mapa",
+            fr: "Explorer sur la carte",
+          },
+          hash: "368be9ade3ff141bfdd5c683f6e0105e",
+        },
+      },
+    },
+    "components/section/home/HeroSection.tsx": {
+      entries: {
+        "1/declaration/body/0/argument/1/1": {
+          content: {
+            de: "Hero-Bereich",
+            en: "Hero Section",
+            es: "Sección principal",
+            fr: "Section héros",
+          },
+          hash: "5d53b9a6303801112bc8e1104f9e01c2",
+        },
+        "10/declaration/body/0/argument/1/1-alt": {
+          content: {
+            de: "Menschen, die sich vernetzen und zusammenarbeiten",
+            en: "People connecting and collaborating",
+            es: "Personas conectando y colaborando",
+            fr: "Des personnes qui se connectent et collaborent",
+          },
+          hash: "2866bceb4d104a5b476678137334fb49",
+        },
+        "10/declaration/body/0/argument/1/11/1": {
+          content: {
+            de: "Verbinden durch",
+            en: "Connect Through",
+            es: "Conecta a través de",
+            fr: "Connectez-vous à travers",
+          },
+          hash: "10b2f73ff64c0fb94b42d976e3ebb451",
+        },
+        "10/declaration/body/0/argument/1/11/3": {
+          content: {
+            de: "Sprache & Kultur",
+            en: "Language & Culture",
+            es: "idioma y cultura",
+            fr: "la langue et la culture",
+          },
+          hash: "3d45db3d45ea5c66f730d4f46736150d",
+        },
+        "10/declaration/body/0/argument/1/13": {
+          content: {
+            de: "Entdecke mehrsprachige Veranstaltungen und Communities in deiner Nähe",
+            en: "Discover multilingual events and communities near you",
+            es: "Descubre eventos y comunidades multilingües cerca de ti",
+            fr: "Découvrez des événements et des communautés multilingues près de chez vous",
+          },
+          hash: "4db2f80474df48e548dfb2854336e935",
+        },
+        "10/declaration/body/0/argument/1/3-alt": {
+          content: {
+            de: "Freunde, die zusammenkommen",
+            en: "Friends gathering together",
+            es: "Amigos reuniéndose",
+            fr: "Des amis qui se réunissent",
+          },
+          hash: "b395bfda70e0cb6b170f17474b50f2ae",
+        },
+        "4/declaration/body/0/argument/1/1/1": {
+          content: {
+            de: "Verbinden durch",
+            en: "Connect Through",
+            es: "Conecta a través de",
+            fr: "Connectez-vous à travers",
+          },
+          hash: "10b2f73ff64c0fb94b42d976e3ebb451",
+        },
+        "4/declaration/body/0/argument/1/1/3": {
+          content: {
+            de: "Sprache & Kultur",
+            en: "Language & Culture",
+            es: "idioma y cultura",
+            fr: "la langue et la culture",
+          },
+          hash: "3d45db3d45ea5c66f730d4f46736150d",
+        },
+        "4/declaration/body/0/argument/1/3": {
+          content: {
+            de: "Entdecke mehrsprachige Veranstaltungen und Communities in deiner Nähe",
+            en: "Discover multilingual events and communities near you",
+            es: "Descubre eventos y comunidades multilingües cerca de ti",
+            fr: "Découvrez des événements et des communautés multilingues près de chez vous",
+          },
+          hash: "4db2f80474df48e548dfb2854336e935",
+        },
+        "5/declaration/body/0/argument/1/3/1": {
+          content: {
+            de: "Verbinden durch",
+            en: "Connect Through",
+            es: "Conecta a través de",
+            fr: "Connectez-vous à travers",
+          },
+          hash: "10b2f73ff64c0fb94b42d976e3ebb451",
+        },
+        "5/declaration/body/0/argument/1/3/3": {
+          content: {
+            de: "Sprache & Kultur",
+            en: "Language & Culture",
+            es: "idioma y cultura",
+            fr: "la langue et la culture",
+          },
+          hash: "3d45db3d45ea5c66f730d4f46736150d",
+        },
+        "5/declaration/body/0/argument/1/5/1": {
+          content: {
+            de: "Verbinden durch",
+            en: "Connect Through",
+            es: "Conecta a través de",
+            fr: "Connectez-vous à travers",
+          },
+          hash: "10b2f73ff64c0fb94b42d976e3ebb451",
+        },
+        "5/declaration/body/0/argument/1/5/3": {
+          content: {
+            de: "Sprache & Kultur",
+            en: "Language & Culture",
+            es: "idioma y cultura",
+            fr: "la langue et la culture",
+          },
+          hash: "3d45db3d45ea5c66f730d4f46736150d",
+        },
+        "8/declaration/body/0/argument/1/1-alt": {
+          content: {
+            de: "Menschen, die sich vernetzen und zusammenarbeiten",
+            en: "People connecting and collaborating",
+            es: "Personas conectando y colaborando",
+            fr: "Des personnes qui se connectent et collaborent",
+          },
+          hash: "2866bceb4d104a5b476678137334fb49",
+        },
+        "8/declaration/body/0/argument/1/11": {
+          content: {
+            de: "Entdecke mehrsprachige Veranstaltungen und Communities in deiner Nähe",
+            en: "Discover multilingual events and communities near you",
+            es: "Descubre eventos y comunidades multilingües cerca de ti",
+            fr: "Découvrez des événements et des communautés multilingues près de chez vous",
+          },
+          hash: "4db2f80474df48e548dfb2854336e935",
+        },
+        "8/declaration/body/0/argument/1/3-alt": {
+          content: {
+            de: "Freunde, die zusammenkommen",
+            en: "Friends gathering together",
+            es: "Amigos reuniéndose",
+            fr: "Des amis qui se réunissent",
+          },
+          hash: "b395bfda70e0cb6b170f17474b50f2ae",
+        },
+        "8/declaration/body/0/argument/1/9/1": {
+          content: {
+            de: "Verbinden durch",
+            en: "Connect Through",
+            es: "Conecta a través de",
+            fr: "Connectez-vous à travers",
+          },
+          hash: "10b2f73ff64c0fb94b42d976e3ebb451",
+        },
+        "8/declaration/body/0/argument/1/9/3": {
+          content: {
+            de: "Sprache & Kultur",
+            en: "Language & Culture",
+            es: "idioma y cultura",
+            fr: "la langue et la culture",
+          },
+          hash: "3d45db3d45ea5c66f730d4f46736150d",
+        },
+        "9/declaration/body/0/argument/1/1-alt": {
+          content: {
+            de: "Menschen, die sich vernetzen und zusammenarbeiten",
+            en: "People connecting and collaborating",
+            es: "Personas conectando y colaborando",
+            fr: "Des personnes qui se connectent et collaborent",
+          },
+          hash: "2866bceb4d104a5b476678137334fb49",
+        },
+        "9/declaration/body/0/argument/1/11/1": {
+          content: {
+            de: "Verbinden durch",
+            en: "Connect Through",
+            es: "Conecta a través de",
+            fr: "Connectez-vous à travers",
+          },
+          hash: "10b2f73ff64c0fb94b42d976e3ebb451",
+        },
+        "9/declaration/body/0/argument/1/11/3": {
+          content: {
+            de: "Sprache & Kultur",
+            en: "Language & Culture",
+            es: "idioma y cultura",
+            fr: "la langue et la culture",
+          },
+          hash: "3d45db3d45ea5c66f730d4f46736150d",
+        },
+        "9/declaration/body/0/argument/1/13": {
+          content: {
+            de: "Entdecke mehrsprachige Veranstaltungen und Communities in deiner Nähe",
+            en: "Discover multilingual events and communities near you",
+            es: "Descubre eventos y comunidades multilingües cerca de ti",
+            fr: "Découvrez des événements et des communautés multilingues près de chez vous",
+          },
+          hash: "4db2f80474df48e548dfb2854336e935",
+        },
+        "9/declaration/body/0/argument/1/3-alt": {
+          content: {
+            de: "Freunde, die zusammenkommen",
+            en: "Friends gathering together",
+            es: "Amigos reuniéndose",
+            fr: "Des amis qui se réunissent",
+          },
+          hash: "b395bfda70e0cb6b170f17474b50f2ae",
+        },
+      },
+    },
+    "components/section/home/HowItWorksSection.tsx": {
+      entries: {
+        "1/declaration/body/0/argument/1/1": {
+          content: {
+            de: "So funktioniert es",
+            en: "How it works",
+            es: "Cómo funciona",
+            fr: "Comment ça marche",
+          },
+          hash: "191d4f7f162cdb17f444531b7593c549",
+        },
+      },
+    },
+    "components/section/home/LanguagesSection.tsx": {
+      entries: {
+        "1/declaration/body/0/argument/1/1": {
+          content: {
+            de: "Sprachen",
+            en: "Languages",
+            es: "Idiomas",
+            fr: "Langues",
+          },
+          hash: "2d2a54a7cbbf640ba2aff643a8a3c7c1",
+        },
+      },
+    },
+    "components/section/home/PopularCommunitiesSection.tsx": {
+      entries: {
+        "1/declaration/body/0/argument/1/1": {
+          content: {
+            de: "Beliebte Communities",
+            en: "Popular communities",
+            es: "Comunidades populares",
+            fr: "Communautés populaires",
+          },
+          hash: "c228900686acc113a93e8bef2efcb64b",
+        },
+        "10/declaration/body/0/argument/1/1/3/1/3/1": {
+          content: {
+            de: "Für dich empfohlen",
+            en: "Recommended for you",
+            es: "Recomendado para ti",
+            fr: "Recommandé pour vous",
+          },
+          hash: "80e1f1cc9872c43147f72c32d056ffbe",
+        },
+        "10/declaration/body/0/argument/1/1/3/3": {
+          content: {
+            de: "Entdecke Communities, die zu deinen Interessen passen",
+            en: "Discover communities that match your interests",
+            es: "Descubre comunidades que coincidan con tus intereses",
+            fr: "Découvrez des communautés qui correspondent à vos intérêts",
+          },
+          hash: "4a9eeaefc7130fca5b5491410ffdaaa7",
+        },
+        "10/declaration/body/2/argument/1/1/3": {
+          content: {
+            de: "<element:motion.div><element:span><element:Users></element:Users></element:span><element:span><expression/></element:span></element:motion.div> Blur-Text-Effekt<element:motion.div><element:BlurTextEffect>Entdecke Communities, die zu deinen Interessen passen</element:BlurTextEffect></element:motion.div><element:PillButton></element:PillButton>",
+            en: "<element:motion.div><element:span><element:Users></element:Users></element:span><element:span><expression/></element:span></element:motion.div> blur text effect<element:motion.div><element:BlurTextEffect>Discover communities that match your interests</element:BlurTextEffect></element:motion.div><element:PillButton></element:PillButton>",
+            es: "<element:motion.div><element:span><element:Users></element:Users></element:span><element:span><expression/></element:span></element:motion.div> efecto de texto difuminado<element:motion.div><element:BlurTextEffect>Descubre comunidades que coincidan con tus intereses</element:BlurTextEffect></element:motion.div><element:PillButton></element:PillButton>",
+            fr: "<element:motion.div><element:span><element:Users></element:Users></element:span><element:span><expression/></element:span></element:motion.div> effet de texte flou<element:motion.div><element:BlurTextEffect>Découvrez des communautés qui correspondent à vos intérêts</element:BlurTextEffect></element:motion.div><element:PillButton></element:PillButton>",
+          },
+          hash: "887e9a8ec2ed616f481efe6b7f1ba25e",
+        },
+        "10/declaration/body/2/argument/1/1/3/1/3/1": {
+          content: {
+            de: "Für dich empfohlen",
+            en: "Recommended for you",
+            es: "Recomendado para ti",
+            fr: "Recommandé pour vous",
+          },
+          hash: "80e1f1cc9872c43147f72c32d056ffbe",
+        },
+        "10/declaration/body/2/argument/1/1/3/1/3/1/expression/alternate": {
+          content: {
+            de: "Für dich empfohlen",
+            en: "Recommended for you",
+            es: "Recomendado para ti",
+            fr: "Recommandé pour vous",
+          },
+          hash: "80e1f1cc9872c43147f72c32d056ffbe",
+        },
+        "10/declaration/body/2/argument/1/1/3/1/3/1/expression/consequent": {
+          content: {
+            de: "Für dich empfohlen",
+            en: "Recommended for you",
+            es: "Recomendado para ti",
+            fr: "Recommandé pour vous",
+          },
+          hash: "80e1f1cc9872c43147f72c32d056ffbe",
+        },
+        "10/declaration/body/2/argument/1/1/3/3": {
+          content: {
+            de: "Entdecke Communities, die zu deinen Interessen passen",
+            en: "Discover communities that match your interests",
+            es: "Descubre comunidades que coincidan con tus intereses",
+            fr: "Découvrez des communautés qui correspondent à vos intérêts",
+          },
+          hash: "4a9eeaefc7130fca5b5491410ffdaaa7",
+        },
+        "10/declaration/body/4/argument/1/1/3": {
+          content: {
+            de: "<element:motion.div><element:span><element:Users></element:Users></element:span><element:span><expression/></element:span></element:motion.div> Blur-Text-Effekt<element:motion.div><element:BlurTextEffect>Entdecke Communities, die zu deinen Interessen passen</element:BlurTextEffect></element:motion.div><element:PillButton></element:PillButton>",
+            en: "<element:motion.div><element:span><element:Users></element:Users></element:span><element:span><expression/></element:span></element:motion.div> blur text effect<element:motion.div><element:BlurTextEffect>Discover communities that match your interests</element:BlurTextEffect></element:motion.div><element:PillButton></element:PillButton>",
+            es: "<element:motion.div><element:span><element:Users></element:Users></element:span><element:span><expression/></element:span></element:motion.div> efecto de texto difuminado<element:motion.div><element:BlurTextEffect>Descubre comunidades que coincidan con tus intereses</element:BlurTextEffect></element:motion.div><element:PillButton></element:PillButton>",
+            fr: "<element:motion.div><element:span><element:Users></element:Users></element:span><element:span><expression/></element:span></element:motion.div> effet de texte flou<element:motion.div><element:BlurTextEffect>Découvrez des communautés qui correspondent à vos intérêts</element:BlurTextEffect></element:motion.div><element:PillButton></element:PillButton>",
+          },
+          hash: "887e9a8ec2ed616f481efe6b7f1ba25e",
+        },
+        "10/declaration/body/4/argument/1/1/3/1/3/1/expression/alternate": {
+          content: {
+            de: "Für dich empfohlen",
+            en: "Recommended for you",
+            es: "Recomendado para ti",
+            fr: "Recommandé pour vous",
+          },
+          hash: "80e1f1cc9872c43147f72c32d056ffbe",
+        },
+        "10/declaration/body/4/argument/1/1/3/1/3/1/expression/consequent": {
+          content: {
+            de: "Für dich empfohlen",
+            en: "Recommended for you",
+            es: "Recomendado para ti",
+            fr: "Recommandé pour vous",
+          },
+          hash: "80e1f1cc9872c43147f72c32d056ffbe",
+        },
+        "10/declaration/body/4/argument/1/1/3/3/1/expression/alternate": {
+          content: {
+            de: "Entdecke Communities, die zu deinen Interessen passen",
+            en: "Discover communities that match your interests",
+            es: "Descubre comunidades que coincidan con tus intereses",
+            fr: "Découvrez des communautés qui correspondent à vos intérêts",
+          },
+          hash: "04f12bdbb84fc4633d60d0ff8c623478",
+        },
+        "10/declaration/body/4/argument/1/1/3/3/1/expression/consequent": {
+          content: {
+            de: "Entdecke Communities, die zu deinen Interessen passen",
+            en: "Discover communities that match your interests",
+            es: "Descubre comunidades que coincidan con tus intereses",
+            fr: "Découvrez des communautés qui correspondent à vos intérêts",
+          },
+          hash: "04f12bdbb84fc4633d60d0ff8c623478",
+        },
+        "7/declaration/body/0/argument/1/1/3/1": {
+          content: {
+            de: "Für dich empfohlen",
+            en: "Recommended for you",
+            es: "Recomendado para ti",
+            fr: "Recommandé pour vous",
+          },
+          hash: "d7a82b12f73079d35623d400299bbff9",
+        },
+        "7/declaration/body/0/argument/1/1/3/1/3": {
+          content: {
+            de: "Für dich empfohlen",
+            en: "Recommended for you",
+            es: "Recomendado para ti",
+            fr: "Recommandé pour vous",
+          },
+          hash: "80e1f1cc9872c43147f72c32d056ffbe",
+        },
+        "7/declaration/body/0/argument/1/1/3/3": {
+          content: {
+            de: "Entdecke Communities, die zu deinen Interessen passen",
+            en: "Discover communities that match your interests",
+            es: "Descubre comunidades que coincidan con tus intereses",
+            fr: "Découvrez des communautés qui correspondent à vos intérêts",
+          },
+          hash: "4a9eeaefc7130fca5b5491410ffdaaa7",
+        },
+        "9/declaration/body/0/argument/1/1/3/1/3": {
+          content: {
+            de: "Für dich empfohlen",
+            en: "Recommended for you",
+            es: "Recomendado para ti",
+            fr: "Recommandé pour vous",
+          },
+          hash: "80e1f1cc9872c43147f72c32d056ffbe",
+        },
+        "9/declaration/body/0/argument/1/1/3/1/3/1": {
+          content: {
+            de: "Für dich empfohlen",
+            en: "Recommended for you",
+            es: "Recomendado para ti",
+            fr: "Recommandé pour vous",
+          },
+          hash: "80e1f1cc9872c43147f72c32d056ffbe",
+        },
+        "9/declaration/body/0/argument/1/1/3/3": {
+          content: {
+            de: "Entdecke Communities, die zu deinen Interessen passen",
+            en: "Discover communities that match your interests",
+            es: "Descubre comunidades que coincidan con tus intereses",
+            fr: "Découvrez des communautés qui correspondent à vos intérêts",
+          },
+          hash: "4a9eeaefc7130fca5b5491410ffdaaa7",
+        },
+      },
+    },
+    "components/section/home/TopEventsSection.tsx": {
+      entries: {
+        "4/declaration/body/0/argument/1/1/1": {
+          content: {
+            de: "Top-Events diese Woche",
+            en: "Top Events happening this week",
+            es: "Principales eventos de esta semana",
+            fr: "Meilleurs événements de cette semaine",
+          },
+          hash: "2df782d56e4f718de7a4bb977583eb01",
+        },
+        "5/declaration/body/0/argument/1/1/1": {
+          content: {
+            de: "Top-Events diese Woche",
+            en: "Top Events happening this week",
+            es: "Principales eventos de esta semana",
+            fr: "Meilleurs événements de cette semaine",
+          },
+          hash: "2df782d56e4f718de7a4bb977583eb01",
+        },
+        "5/declaration/body/0/argument/1/3/1-title": {
+          content: {
+            de: "Community-Treffen",
+            en: "Community Meetup",
+            es: "Encuentro comunitario",
+            fr: "Rencontre communautaire",
+          },
+          hash: "482df82ca9cc9f9d6de049b88d76d6a9",
+        },
+      },
+    },
     "components/tambo/index.tsx": {
       entries: {
         "2/declaration/body/0/argument/1": {
@@ -757,6 +1982,24 @@ export default {
           },
           hash: "b57049fc2a99e0dd830b0070994bff08",
         },
+        "12/declaration/0/init/0/body/5/argument/5/7/7/1/1-placeholder": {
+          content: {
+            de: "Fragen Sie nach dem Scrapen einer Website oder dem Senden einer E-Mail",
+            en: "Ask to scrape a website or send an email",
+            es: "Pide raspar un sitio web o enviar un correo electrónico",
+            fr: "Demander de scraper un site web ou d'envoyer un email",
+          },
+          hash: "b57049fc2a99e0dd830b0070994bff08",
+        },
+        "13/declaration/0/init/0/body/5/argument/5/7/7/1/1-placeholder": {
+          content: {
+            de: "Fragen Sie nach dem Scrapen einer Website oder dem Senden einer E-Mail",
+            en: "Ask to scrape a website or send an email",
+            es: "Pide raspar un sitio web o enviar un correo electrónico",
+            fr: "Demander de scraper un site web ou d'envoyer un email",
+          },
+          hash: "b57049fc2a99e0dd830b0070994bff08",
+        },
       },
     },
     "components/tambo/message.tsx": {
@@ -841,24 +2084,6 @@ export default {
     },
     "components/tambo/thread-history.tsx": {
       entries: {
-        "ThreadHistoryLanguageFilter/all": {
-          content: {
-            de: "Alle",
-            en: "All",
-            es: "Todos",
-            fr: "Tous",
-          },
-          hash: "thread-history-language-filter-all",
-        },
-        "ThreadHistoryHeader/title": {
-          content: {
-            de: "Tambo Unterhaltungen",
-            en: "Tambo Conversations",
-            es: "Conversaciones de Tambo",
-            fr: "Conversations Tambo",
-          },
-          hash: "thread-history-header-title",
-        },
         "11/0/init/0/body/1/argument/1/expression/right": {
           content: {
             de: "Tambo Gespräche",
@@ -984,6 +2209,157 @@ export default {
             fr: "<element:Sparkles></element:Sparkles> Générer un nom",
           },
           hash: "e4ce714b58ee52dcf102252cb171368c",
+        },
+      },
+    },
+    "components/ui/carousel.tsx": {
+      entries: {
+        "19/0/init/0/body/1/argument/3": {
+          content: {
+            de: "Vorherige Folie",
+            en: "Previous slide",
+            es: "Diapositiva anterior",
+            fr: "Diapositive précédente",
+          },
+          hash: "23328c6fe160a399086131987317f3ed",
+        },
+        "21/0/init/0/body/1/argument/3": {
+          content: {
+            de: "Nächste Folie",
+            en: "Next slide",
+            es: "Siguiente diapositiva",
+            fr: "Diapositive suivante",
+          },
+          hash: "c76993309a88cf9f8a3a7fca7b5d7896",
+        },
+      },
+    },
+    "components/ui/map.tsx": {
+      entries: {
+        "30/body/7/argument/0/1/expression/right-aria-label": {
+          content: {
+            de: "Popup schließen",
+            en: "Close popup",
+            es: "Cerrar ventana emergente",
+            fr: "Fermer la fenêtre contextuelle",
+          },
+          hash: "9c94c5ef12644f51fd7098e8a4c84189",
+        },
+        "30/body/7/argument/0/1/expression/right/3": {
+          content: {
+            de: "Schließen",
+            en: "Close",
+            es: "Cerrar",
+            fr: "Fermer",
+          },
+          hash: "2c2e22f8424a1031de89063bd0022e16",
+        },
+        "39/body/7/argument/1/expression/right/1-label": {
+          content: {
+            de: "Vergrößern",
+            en: "Zoom in",
+            es: "Acercar",
+            fr: "Zoomer",
+          },
+          hash: "20244d74cc44e8606cbf4bb8b4e16e4b",
+        },
+        "39/body/7/argument/1/expression/right/3-label": {
+          content: {
+            de: "Verkleinern",
+            en: "Zoom out",
+            es: "Alejar",
+            fr: "Dézoomer",
+          },
+          hash: "b723e467be28d8659338502c470821fd",
+        },
+        "39/body/7/argument/5/expression/right/1-label": {
+          content: {
+            de: "Meinen Standort finden",
+            en: "Find my location",
+            es: "Encontrar mi ubicación",
+            fr: "Me localiser",
+          },
+          hash: "3c34facca63396d992079cdced25bd57",
+        },
+        "39/body/7/argument/7/expression/right/1-label": {
+          content: {
+            de: "Vollbild umschalten",
+            en: "Toggle fullscreen",
+            es: "Alternar pantalla completa",
+            fr: "Basculer en plein écran",
+          },
+          hash: "25744543e6ab31b6c27da8f37b9b3337",
+        },
+        "40/body/3/argument-label": {
+          content: {
+            de: "Ausrichtung nach Norden zurücksetzen",
+            en: "Reset bearing to north",
+            es: "Restablecer orientación al norte",
+            fr: "Réinitialiser l'orientation vers le nord",
+          },
+          hash: "500ce9efd8d430ef876b16fef81e67b1",
+        },
+        "42/body/9/argument/0/1/expression/right-aria-label": {
+          content: {
+            de: "Popup schließen",
+            en: "Close popup",
+            es: "Cerrar ventana emergente",
+            fr: "Fermer la fenêtre contextuelle",
+          },
+          hash: "9c94c5ef12644f51fd7098e8a4c84189",
+        },
+        "42/body/9/argument/0/1/expression/right/3": {
+          content: {
+            de: "Schließen",
+            en: "Close",
+            es: "Cerrar",
+            fr: "Fermer",
+          },
+          hash: "2c2e22f8424a1031de89063bd0022e16",
+        },
+      },
+    },
+    "components/ui/section-heading.tsx": {
+      entries: {
+        "3/declaration/body/0/0/init/body/0/consequent/0/argument": {
+          content: {
+            de: "Alle anzeigen",
+            en: "View all",
+            es: "Ver todo",
+            fr: "Voir tout",
+          },
+          hash: "3bd1d2b56a6fc67390663b092ac2ac99",
+        },
+        "3/declaration/body/0/argument/3/1/expression/consequent": {
+          content: {
+            de: "Alle anzeigen",
+            en: "View all",
+            es: "Ver todo",
+            fr: "Voir tout",
+          },
+          hash: "41c10c2fcc5bff758f95d36fd6255444",
+        },
+        "6/declaration/body/0/0/init/body/1/consequent/0/argument": {
+          content: {
+            de: "Alle anzeigen",
+            en: "View all",
+            es: "Ver todo",
+            fr: "Voir tout",
+          },
+          hash: "3bd1d2b56a6fc67390663b092ac2ac99",
+        },
+      },
+    },
+    "components/ui/sheet.tsx": {
+      entries: {
+        "9/body/0/argument/3/3/expression/right/3": {
+          content: {
+            de: "Schließen",
+            en: "Close",
+            es: "Cerrar",
+            fr: "Fermer",
+          },
+          hash: "2c2e22f8424a1031de89063bd0022e16",
         },
       },
     },

@@ -2,7 +2,16 @@ import type { NextConfig } from "next";
 import lingoCompiler from "lingo.dev/compiler";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "images.unsplash.com",
+        port: "",
+        pathname: "/**",
+      },
+    ],
+  },
 };
 
 // for Lingo.dev Compiler configuration see https://lingo.dev/en/compiler/frameworks/nextjs

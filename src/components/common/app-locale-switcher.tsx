@@ -3,17 +3,28 @@
 import { LocaleSwitcher } from "lingo.dev/react/client";
 import { usePathname } from "next/navigation";
 
-export default function AppLocaleSwitcher() {
+interface AppLocaleSwitcherProps {
+  /** When true, renders inline (e.g. in Navbar). When false, floats in corner. */
+  embedded?: boolean;
+}
+
+export default function AppLocaleSwitcher({ embedded }: AppLocaleSwitcherProps) {
   const pathname = usePathname();
   const isRootPage = pathname === "/";
 
   return (
-    <div className="absolute top-2 right-3 z-50 flex flex-col items-center">
+    <div
+      className={
+        embedded
+          ? "flex flex-col items-center"
+          : "absolute top-2 right-3 z-50 flex flex-col items-center"
+      }
+    >
       <LocaleSwitcher
         locales={["en", "es", "fr", "de"]}
         className="border border-gray-800 rounded-md p-2 text-white bg-primary cursor-pointer hover:bg-primary/80 transition-colors"
       />
-      {isRootPage && (
+      {!embedded && isRootPage && (
         <>
           <Arrow />
           <span className="text-xs text-primary" data-lingo-skip>

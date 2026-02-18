@@ -40,8 +40,132 @@
         }
       }
     },
+    "app/dashboard/page.tsx": {
+      "scopes": {
+        "4/declaration/body/2/argument/1": {
+          "type": "element",
+          "hash": "c9380ea68c8c76ea451bd9613329a07c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Dashboard"
+        },
+        "4/declaration/body/2/argument/3": {
+          "type": "element",
+          "hash": "d91bd113cffa9d0513babbcf0f3ac9f1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome, {session.user.email}. Your events and forums will appear here."
+        },
+        "4/declaration/body/2/argument/5": {
+          "type": "element",
+          "hash": "2b4fa9a4feb28b2023d9145b962f795f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "← Back to Home"
+        },
+        "6/declaration/body/2/argument/3/1/1": {
+          "type": "element",
+          "hash": "c9380ea68c8c76ea451bd9613329a07c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Dashboard"
+        },
+        "6/declaration/body/2/argument/3/1/3": {
+          "type": "element",
+          "hash": "db9738c59b73df50a5cf1c5a408f7dcb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome, {session.user.email}. Your events and forums will appear here."
+        },
+        "6/declaration/body/2/argument/3/1/5": {
+          "type": "element",
+          "hash": "e9c343ab112460921290c79d3d0e3d65",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "← Back to Home"
+        }
+      }
+    },
     "app/page.tsx": {
       "scopes": {
+        "4/declaration/body/2/argument/1": {
+          "type": "element",
+          "hash": "6e6977484c0a0d312d4c7e17d4983a25",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome to Lingo Events"
+        },
+        "4/declaration/body/2/argument/3": {
+          "type": "element",
+          "hash": "b292a8d557719b87e14ffb75542b5716",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover events on the map, join communities, and connect with people near you. Built with Lingo.dev for full multilingual support."
+        },
+        "4/declaration/body/2/argument/7/expression/right": {
+          "type": "element",
+          "hash": "613869ddb8e1edfc72fbf018ea4da843",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Go to Dashboard"
+        },
+        "6/declaration/body/2/argument/3/1/1": {
+          "type": "element",
+          "hash": "8858bece5e9090e5fb38092dc1dd9aa2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome to Lingo Events"
+        },
+        "6/declaration/body/2/argument/3/1/3": {
+          "type": "element",
+          "hash": "972f7c17b40f80cc5d24b2566c746925",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover events on the map, join communities, and connect with people near you. Built with Lingo.dev for full multilingual support."
+        },
+        "6/declaration/body/2/argument/3/1/7/expression/right": {
+          "type": "element",
+          "hash": "eaaf45d988e7c6b07ee322321a3b85ab",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Go to Dashboard"
+        },
+        "6/declaration/body/2/argument/5/1/1": {
+          "type": "element",
+          "hash": "8858bece5e9090e5fb38092dc1dd9aa2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome to Lingo Events"
+        },
+        "6/declaration/body/2/argument/5/1/3": {
+          "type": "element",
+          "hash": "972f7c17b40f80cc5d24b2566c746925",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover events on the map, join communities, and connect with people near you. Built with Lingo.dev for full multilingual support."
+        },
+        "6/declaration/body/2/argument/5/1/7/expression/right": {
+          "type": "element",
+          "hash": "eaaf45d988e7c6b07ee322321a3b85ab",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Go to Dashboard"
+        },
         "9/declaration/body/2/argument/1": {
           "type": "element",
           "hash": "50624842760e75aa1a7e0a57a5d1ea91",
@@ -449,6 +573,26 @@
           "skip": true,
           "overrides": {},
           "content": "Lingo.dev Compiler"
+        },
+        "4/declaration/body/2/argument/3/expression/right/3": {
+          "type": "element",
+          "hash": "af7eaea7a39654a55635ac4ee3e8ac55",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "Lingo.dev Compiler"
+        }
+      }
+    },
+    "components/communities/CommunityCard.tsx": {
+      "scopes": {
+        "5/declaration/body/1/argument/1/3/1": {
+          "type": "element",
+          "hash": "6d9cfc0064832d7ea89d18cd9d986c5c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Join"
         }
       }
     },
@@ -533,6 +677,566 @@
           "skip": false,
           "overrides": {},
           "content": "{key}:"
+        }
+      }
+    },
+    "components/layout/Footer.tsx": {
+      "scopes": {
+        "1/declaration/body/1/argument/1/1/1": {
+          "type": "element",
+          "hash": "8ad7f4ee84d339678d6ba481255d6e36",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "© {currentYear} <element:span>Lingo Events</element:span>. All rights reserved."
+        },
+        "1/declaration/body/1/argument/1/1/3/1": {
+          "type": "element",
+          "hash": "137758680d0d6cf4d0dfc3b23be5cad3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Home"
+        },
+        "1/declaration/body/1/argument/1/1/3/3": {
+          "type": "element",
+          "hash": "73c71abc730e32e3ef0b154a69bd3869",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Events"
+        },
+        "1/declaration/body/1/argument/1/1/3/5": {
+          "type": "element",
+          "hash": "9b5c3309bdac502b2ba0e4b387ed584b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Forums"
+        },
+        "7/declaration/body/0/argument/1/1/3/3": {
+          "type": "element",
+          "hash": "869858080c8714167550be040cf712e1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "hello@lingoevents.com"
+        },
+        "7/declaration/body/0/argument/1/1/7/3/1": {
+          "type": "element",
+          "hash": "deb89de66e99e326e27171379f94e034",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "Lingo Events"
+        },
+        "7/declaration/body/0/argument/1/1/7/3/5/1": {
+          "type": "element",
+          "hash": "ca8c7615e25781bd86a72e52b23d5eeb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get Started"
+        },
+        "7/declaration/body/0/argument/1/1/7/3/7": {
+          "type": "element",
+          "hash": "2625c68b9dad3d05fedc3285d04f5f67",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "©2026 Lingo Events. All rights reserved."
+        },
+        "7/declaration/body/0/argument/1/1/7/7/11/1": {
+          "type": "element",
+          "hash": "768c6c8561af75d72f7b38551914348f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Socials"
+        },
+        "7/declaration/body/0/argument/1/1/7/7/3/1": {
+          "type": "element",
+          "hash": "39ec305838e9c4948b310f75d2d72c04",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Legal"
+        },
+        "7/declaration/body/0/argument/1/1/7/7/3/3": {
+          "type": "element",
+          "hash": "338ec260ef372e086a7dc2f82371013f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Privacy Policy"
+        },
+        "7/declaration/body/0/argument/1/1/7/7/3/5": {
+          "type": "element",
+          "hash": "ecc9a9f9f629b85e5b6ba530085b268a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Terms & Conditions"
+        },
+        "7/declaration/body/0/argument/1/1/7/7/7/1": {
+          "type": "element",
+          "hash": "933ba531f6899c26988ddc3a6745484d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Pages"
+        },
+        "7/declaration/body/0/argument/1/1/7/7/7/3": {
+          "type": "element",
+          "hash": "89b45c8ef55fe6270819799862f07ca9",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Home"
+        },
+        "7/declaration/body/0/argument/1/1/7/7/7/5": {
+          "type": "element",
+          "hash": "9d29c1006b93c4ed35860f4c1ccc4754",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Events"
+        },
+        "7/declaration/body/0/argument/1/1/7/7/7/7": {
+          "type": "element",
+          "hash": "ff3510ff551dd23f50edd77cc15e9ebd",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Forums"
+        },
+        "7/declaration/body/0/argument/1/1/7/7/7/9": {
+          "type": "element",
+          "hash": "a8bd7d4a57d651051cc7c786106d8fae",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Dashboard"
+        },
+        "7/declaration/body/0/argument/5/1/1": {
+          "type": "element",
+          "hash": "d2d95e6fe668d03f0af3753161f78f91",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "LINGO EVENTS"
+        },
+        "8/declaration/body/0/argument/1/1/7/3/1": {
+          "type": "element",
+          "hash": "deb89de66e99e326e27171379f94e034",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "Lingo Events"
+        },
+        "8/declaration/body/0/argument/1/1/7/3/5/1": {
+          "type": "element",
+          "hash": "ca8c7615e25781bd86a72e52b23d5eeb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get Started"
+        },
+        "8/declaration/body/0/argument/1/1/7/3/7": {
+          "type": "element",
+          "hash": "2625c68b9dad3d05fedc3285d04f5f67",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "©2026 Lingo Events. All rights reserved."
+        },
+        "8/declaration/body/0/argument/1/1/7/7/11/1": {
+          "type": "element",
+          "hash": "768c6c8561af75d72f7b38551914348f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Socials"
+        },
+        "8/declaration/body/0/argument/1/1/7/7/3/1": {
+          "type": "element",
+          "hash": "39ec305838e9c4948b310f75d2d72c04",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Legal"
+        },
+        "8/declaration/body/0/argument/1/1/7/7/3/3": {
+          "type": "element",
+          "hash": "338ec260ef372e086a7dc2f82371013f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Privacy Policy"
+        },
+        "8/declaration/body/0/argument/1/1/7/7/3/5": {
+          "type": "element",
+          "hash": "ecc9a9f9f629b85e5b6ba530085b268a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Terms & Conditions"
+        },
+        "8/declaration/body/0/argument/1/1/7/7/7/1": {
+          "type": "element",
+          "hash": "933ba531f6899c26988ddc3a6745484d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Pages"
+        },
+        "8/declaration/body/0/argument/1/1/7/7/7/3": {
+          "type": "element",
+          "hash": "89b45c8ef55fe6270819799862f07ca9",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Home"
+        },
+        "8/declaration/body/0/argument/1/1/7/7/7/5": {
+          "type": "element",
+          "hash": "9d29c1006b93c4ed35860f4c1ccc4754",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Events"
+        },
+        "8/declaration/body/0/argument/1/1/7/7/7/7": {
+          "type": "element",
+          "hash": "ff3510ff551dd23f50edd77cc15e9ebd",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Forums"
+        },
+        "8/declaration/body/0/argument/1/1/7/7/7/9": {
+          "type": "element",
+          "hash": "a8bd7d4a57d651051cc7c786106d8fae",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Dashboard"
+        },
+        "8/declaration/body/0/argument/5/1/3/3": {
+          "type": "element",
+          "hash": "869858080c8714167550be040cf712e1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "hello@lingoevents.com"
+        },
+        "8/declaration/body/0/argument/5/1/7/3/1": {
+          "type": "element",
+          "hash": "deb89de66e99e326e27171379f94e034",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "Lingo Events"
+        },
+        "8/declaration/body/0/argument/5/1/7/3/5/1": {
+          "type": "element",
+          "hash": "ca8c7615e25781bd86a72e52b23d5eeb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get Started"
+        },
+        "8/declaration/body/0/argument/5/1/7/3/7": {
+          "type": "element",
+          "hash": "2625c68b9dad3d05fedc3285d04f5f67",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "©2026 Lingo Events. All rights reserved."
+        },
+        "8/declaration/body/0/argument/5/1/7/7/11/1": {
+          "type": "element",
+          "hash": "768c6c8561af75d72f7b38551914348f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Socials"
+        },
+        "8/declaration/body/0/argument/5/1/7/7/3/1": {
+          "type": "element",
+          "hash": "39ec305838e9c4948b310f75d2d72c04",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Legal"
+        },
+        "8/declaration/body/0/argument/5/1/7/7/3/3": {
+          "type": "element",
+          "hash": "338ec260ef372e086a7dc2f82371013f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Privacy Policy"
+        },
+        "8/declaration/body/0/argument/5/1/7/7/3/5": {
+          "type": "element",
+          "hash": "ecc9a9f9f629b85e5b6ba530085b268a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Terms & Conditions"
+        },
+        "8/declaration/body/0/argument/5/1/7/7/7/1": {
+          "type": "element",
+          "hash": "933ba531f6899c26988ddc3a6745484d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Pages"
+        },
+        "8/declaration/body/0/argument/5/1/7/7/7/3": {
+          "type": "element",
+          "hash": "89b45c8ef55fe6270819799862f07ca9",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Home"
+        },
+        "8/declaration/body/0/argument/5/1/7/7/7/5": {
+          "type": "element",
+          "hash": "9d29c1006b93c4ed35860f4c1ccc4754",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Events"
+        },
+        "8/declaration/body/0/argument/5/1/7/7/7/7": {
+          "type": "element",
+          "hash": "ff3510ff551dd23f50edd77cc15e9ebd",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Forums"
+        },
+        "8/declaration/body/0/argument/5/1/7/7/7/9": {
+          "type": "element",
+          "hash": "a8bd7d4a57d651051cc7c786106d8fae",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Dashboard"
+        },
+        "9/declaration/body/0/argument/5/1/7/3/1": {
+          "type": "element",
+          "hash": "05c1e33919efc7035701bd375b616ca7",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "MapInly"
+        },
+        "9/declaration/body/0/argument/5/1/7/3/1/3": {
+          "type": "element",
+          "hash": "05c1e33919efc7035701bd375b616ca7",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "MapInly"
+        },
+        "9/declaration/body/0/argument/5/1/7/3/5/1": {
+          "type": "element",
+          "hash": "ca8c7615e25781bd86a72e52b23d5eeb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get Started"
+        },
+        "9/declaration/body/0/argument/5/1/7/3/7": {
+          "type": "element",
+          "hash": "2625c68b9dad3d05fedc3285d04f5f67",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "©2026 Lingo Events. All rights reserved."
+        },
+        "9/declaration/body/0/argument/5/1/7/7/11/1": {
+          "type": "element",
+          "hash": "768c6c8561af75d72f7b38551914348f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Socials"
+        },
+        "9/declaration/body/0/argument/5/1/7/7/3/1": {
+          "type": "element",
+          "hash": "39ec305838e9c4948b310f75d2d72c04",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Legal"
+        },
+        "9/declaration/body/0/argument/5/1/7/7/3/3": {
+          "type": "element",
+          "hash": "338ec260ef372e086a7dc2f82371013f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Privacy Policy"
+        },
+        "9/declaration/body/0/argument/5/1/7/7/3/5": {
+          "type": "element",
+          "hash": "ecc9a9f9f629b85e5b6ba530085b268a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Terms & Conditions"
+        },
+        "9/declaration/body/0/argument/5/1/7/7/7/1": {
+          "type": "element",
+          "hash": "933ba531f6899c26988ddc3a6745484d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Pages"
+        },
+        "9/declaration/body/0/argument/5/1/7/7/7/3": {
+          "type": "element",
+          "hash": "89b45c8ef55fe6270819799862f07ca9",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Home"
+        },
+        "9/declaration/body/0/argument/5/1/7/7/7/5": {
+          "type": "element",
+          "hash": "9d29c1006b93c4ed35860f4c1ccc4754",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Events"
+        },
+        "9/declaration/body/0/argument/5/1/7/7/7/7": {
+          "type": "element",
+          "hash": "ff3510ff551dd23f50edd77cc15e9ebd",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Forums"
+        },
+        "9/declaration/body/0/argument/5/1/7/7/7/9": {
+          "type": "element",
+          "hash": "a8bd7d4a57d651051cc7c786106d8fae",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Dashboard"
+        }
+      }
+    },
+    "components/layout/Navbar.tsx": {
+      "scopes": {
+        "5/declaration/body/1/argument/1/1/1": {
+          "type": "element",
+          "hash": "7946fd32be6e9bcaccda9d5b19e84c3e",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "Lingo Events"
+        },
+        "5/declaration/body/1/argument/1/3/1": {
+          "type": "element",
+          "hash": "6e592a07b0ea45b3c32726c8d6dfa1cf",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Home"
+        },
+        "5/declaration/body/1/argument/1/3/3": {
+          "type": "element",
+          "hash": "324e32a2b3591e1b3fb3af7666c5c67a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Events"
+        },
+        "5/declaration/body/1/argument/1/3/5": {
+          "type": "element",
+          "hash": "54a8169a07795174faf4ed79984b4561",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Forums"
+        },
+        "5/declaration/body/1/argument/1/3/7": {
+          "type": "element",
+          "hash": "a74bff76def2999a7fdd10df9f014f3c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Dashboard"
+        },
+        "8/declaration/body/1/argument/1/1/1/3": {
+          "type": "element",
+          "hash": "4e303f2bd192d0bd4bd27129f3f234f6",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "MapInly"
+        },
+        "9/declaration/body/1/argument/1/1/1/3": {
+          "type": "element",
+          "hash": "4e303f2bd192d0bd4bd27129f3f234f6",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "MapInly"
+        }
+      }
+    },
+    "components/layout/NavbarAuth.tsx": {
+      "scopes": {
+        "4/declaration/body/3/consequent/0/argument/1": {
+          "type": "element",
+          "hash": "04ab3eae9af188fb7cff6c75f32744fa",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Dashboard"
+        },
+        "4/declaration/body/3/consequent/0/argument/5": {
+          "type": "element",
+          "hash": "91f9b6381c6ebba6e3828a4fadceec01",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Log out"
+        },
+        "4/declaration/body/4/argument/1": {
+          "type": "element",
+          "hash": "8d2484d1cad09299980986924cadeede",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Log in"
+        },
+        "4/declaration/body/4/argument/3": {
+          "type": "element",
+          "hash": "9cd7c13e9cfe38a55848735995f42629",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign up"
+        }
+      }
+    },
+    "components/layout/NotificationBanner.tsx": {
+      "scopes": {
+        "3/declaration/body/0/argument/1/3": {
+          "type": "element",
+          "hash": "72b424bc03735870682ae99502b12009",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Built for lingodev Multilingual hackathon by <element:Link>Vaibhav91one</element:Link>"
         }
       }
     },
@@ -665,6 +1369,502 @@
           "skip": false,
           "overrides": {},
           "content": "<expression/> error details"
+        }
+      }
+    },
+    "components/section/dashboard/DashboardOverviewSection.tsx": {
+      "scopes": {
+        "1/declaration/body/0/argument/1/1": {
+          "type": "element",
+          "hash": "cdaa06e54d5d1783ed9ca7701b481b98",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Dashboard Overview Section"
+        }
+      }
+    },
+    "components/section/events/EventsMapSection.tsx": {
+      "scopes": {
+        "1/declaration/body/0/argument/1/1": {
+          "type": "element",
+          "hash": "4ba1f0ad294add566a08aeb530fc0bd1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Events Map Section"
+        }
+      }
+    },
+    "components/section/forums/ForumsListSection.tsx": {
+      "scopes": {
+        "1/declaration/body/0/argument/1/1": {
+          "type": "element",
+          "hash": "63002760de2226226993863d572f4f1a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Forums List Section"
+        }
+      }
+    },
+    "components/section/home/CTASection.tsx": {
+      "scopes": {
+        "1/declaration/body/0/argument/1/1": {
+          "type": "element",
+          "hash": "4249843adbdd0456179921a69c984815",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Call to action"
+        },
+        "3/declaration/body/0/argument/1/1": {
+          "type": "element",
+          "hash": "d6fb2722ab24079e5a318bb5f820f087",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Ready to connect?"
+        },
+        "3/declaration/body/0/argument/1/3": {
+          "type": "element",
+          "hash": "93582b45cce2bdf70b7cb929c40f01ea",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Join events and communities near you"
+        }
+      }
+    },
+    "components/section/home/ExploreMapSection.tsx": {
+      "scopes": {
+        "1/declaration/body/0/argument/1/1": {
+          "type": "element",
+          "hash": "368be9ade3ff141bfdd5c683f6e0105e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Explore on map"
+        }
+      }
+    },
+    "components/section/home/HeroSection.tsx": {
+      "scopes": {
+        "1/declaration/body/0/argument/1/1": {
+          "type": "element",
+          "hash": "5d53b9a6303801112bc8e1104f9e01c2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Hero Section"
+        },
+        "10/declaration/body/0/argument/1/1-alt": {
+          "type": "attribute",
+          "hash": "2866bceb4d104a5b476678137334fb49",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "People connecting and collaborating"
+        },
+        "10/declaration/body/0/argument/1/11/1": {
+          "type": "element",
+          "hash": "10b2f73ff64c0fb94b42d976e3ebb451",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Connect Through"
+        },
+        "10/declaration/body/0/argument/1/11/3": {
+          "type": "element",
+          "hash": "3d45db3d45ea5c66f730d4f46736150d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Language & Culture"
+        },
+        "10/declaration/body/0/argument/1/13": {
+          "type": "element",
+          "hash": "4db2f80474df48e548dfb2854336e935",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover multilingual events and communities near you"
+        },
+        "10/declaration/body/0/argument/1/3-alt": {
+          "type": "attribute",
+          "hash": "b395bfda70e0cb6b170f17474b50f2ae",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Friends gathering together"
+        },
+        "10/declaration/body/0/argument/1/9": {
+          "type": "element",
+          "hash": "75c7b03d0c9c443d156bf68b5fec3f51",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "Introducing a new way to connect"
+        },
+        "10/declaration/body/0/argument/1/9/1": {
+          "type": "element",
+          "hash": "6dd0c058ae56174d8f61a751f396fc3c",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "Introducing a new way to connect"
+        },
+        "4/declaration/body/0/argument/1/1/1": {
+          "type": "element",
+          "hash": "10b2f73ff64c0fb94b42d976e3ebb451",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Connect Through"
+        },
+        "4/declaration/body/0/argument/1/1/3": {
+          "type": "element",
+          "hash": "3d45db3d45ea5c66f730d4f46736150d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Language & Culture"
+        },
+        "4/declaration/body/0/argument/1/3": {
+          "type": "element",
+          "hash": "4db2f80474df48e548dfb2854336e935",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover multilingual events and communities near you"
+        },
+        "5/declaration/body/0/argument/1/3/1": {
+          "type": "element",
+          "hash": "10b2f73ff64c0fb94b42d976e3ebb451",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Connect Through"
+        },
+        "5/declaration/body/0/argument/1/3/3": {
+          "type": "element",
+          "hash": "3d45db3d45ea5c66f730d4f46736150d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Language & Culture"
+        },
+        "5/declaration/body/0/argument/1/5/1": {
+          "type": "element",
+          "hash": "10b2f73ff64c0fb94b42d976e3ebb451",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Connect Through"
+        },
+        "5/declaration/body/0/argument/1/5/3": {
+          "type": "element",
+          "hash": "3d45db3d45ea5c66f730d4f46736150d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Language & Culture"
+        },
+        "8/declaration/body/0/argument/1/1-alt": {
+          "type": "attribute",
+          "hash": "2866bceb4d104a5b476678137334fb49",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "People connecting and collaborating"
+        },
+        "8/declaration/body/0/argument/1/11": {
+          "type": "element",
+          "hash": "4db2f80474df48e548dfb2854336e935",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover multilingual events and communities near you"
+        },
+        "8/declaration/body/0/argument/1/3-alt": {
+          "type": "attribute",
+          "hash": "b395bfda70e0cb6b170f17474b50f2ae",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Friends gathering together"
+        },
+        "8/declaration/body/0/argument/1/9/1": {
+          "type": "element",
+          "hash": "10b2f73ff64c0fb94b42d976e3ebb451",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Connect Through"
+        },
+        "8/declaration/body/0/argument/1/9/3": {
+          "type": "element",
+          "hash": "3d45db3d45ea5c66f730d4f46736150d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Language & Culture"
+        },
+        "9/declaration/body/0/argument/1/1-alt": {
+          "type": "attribute",
+          "hash": "2866bceb4d104a5b476678137334fb49",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "People connecting and collaborating"
+        },
+        "9/declaration/body/0/argument/1/11/1": {
+          "type": "element",
+          "hash": "10b2f73ff64c0fb94b42d976e3ebb451",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Connect Through"
+        },
+        "9/declaration/body/0/argument/1/11/3": {
+          "type": "element",
+          "hash": "3d45db3d45ea5c66f730d4f46736150d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Language & Culture"
+        },
+        "9/declaration/body/0/argument/1/13": {
+          "type": "element",
+          "hash": "4db2f80474df48e548dfb2854336e935",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover multilingual events and communities near you"
+        },
+        "9/declaration/body/0/argument/1/3-alt": {
+          "type": "attribute",
+          "hash": "b395bfda70e0cb6b170f17474b50f2ae",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Friends gathering together"
+        },
+        "9/declaration/body/0/argument/1/9": {
+          "type": "element",
+          "hash": "75c7b03d0c9c443d156bf68b5fec3f51",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "Introducing a new way to connect"
+        }
+      }
+    },
+    "components/section/home/HowItWorksSection.tsx": {
+      "scopes": {
+        "1/declaration/body/0/argument/1/1": {
+          "type": "element",
+          "hash": "191d4f7f162cdb17f444531b7593c549",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "How it works"
+        }
+      }
+    },
+    "components/section/home/LanguagesSection.tsx": {
+      "scopes": {
+        "1/declaration/body/0/argument/1/1": {
+          "type": "element",
+          "hash": "2d2a54a7cbbf640ba2aff643a8a3c7c1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Languages"
+        }
+      }
+    },
+    "components/section/home/PopularCommunitiesSection.tsx": {
+      "scopes": {
+        "1/declaration/body/0/argument/1/1": {
+          "type": "element",
+          "hash": "c228900686acc113a93e8bef2efcb64b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Popular communities"
+        },
+        "10/declaration/body/0/argument/1/1/3/1/3/1": {
+          "type": "element",
+          "hash": "80e1f1cc9872c43147f72c32d056ffbe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Recommended for you"
+        },
+        "10/declaration/body/0/argument/1/1/3/3": {
+          "type": "element",
+          "hash": "4a9eeaefc7130fca5b5491410ffdaaa7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover communities that match your interests"
+        },
+        "10/declaration/body/2/argument/1/1/3": {
+          "type": "element",
+          "hash": "887e9a8ec2ed616f481efe6b7f1ba25e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:motion.div><element:span><element:Users></element:Users></element:span><element:span><expression/></element:span></element:motion.div> blur text effect<element:motion.div><element:BlurTextEffect>Discover communities that match your interests</element:BlurTextEffect></element:motion.div><element:PillButton></element:PillButton>"
+        },
+        "10/declaration/body/2/argument/1/1/3/1/3/1": {
+          "type": "element",
+          "hash": "80e1f1cc9872c43147f72c32d056ffbe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Recommended for you"
+        },
+        "10/declaration/body/2/argument/1/1/3/1/3/1/expression/alternate": {
+          "type": "element",
+          "hash": "80e1f1cc9872c43147f72c32d056ffbe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Recommended for you"
+        },
+        "10/declaration/body/2/argument/1/1/3/1/3/1/expression/consequent": {
+          "type": "element",
+          "hash": "80e1f1cc9872c43147f72c32d056ffbe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Recommended for you"
+        },
+        "10/declaration/body/2/argument/1/1/3/3": {
+          "type": "element",
+          "hash": "4a9eeaefc7130fca5b5491410ffdaaa7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover communities that match your interests"
+        },
+        "10/declaration/body/4/argument/1/1/3": {
+          "type": "element",
+          "hash": "887e9a8ec2ed616f481efe6b7f1ba25e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:motion.div><element:span><element:Users></element:Users></element:span><element:span><expression/></element:span></element:motion.div> blur text effect<element:motion.div><element:BlurTextEffect>Discover communities that match your interests</element:BlurTextEffect></element:motion.div><element:PillButton></element:PillButton>"
+        },
+        "10/declaration/body/4/argument/1/1/3/1/3/1/expression/alternate": {
+          "type": "element",
+          "hash": "80e1f1cc9872c43147f72c32d056ffbe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Recommended for you"
+        },
+        "10/declaration/body/4/argument/1/1/3/1/3/1/expression/consequent": {
+          "type": "element",
+          "hash": "80e1f1cc9872c43147f72c32d056ffbe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Recommended for you"
+        },
+        "10/declaration/body/4/argument/1/1/3/3/1/expression/alternate": {
+          "type": "element",
+          "hash": "04f12bdbb84fc4633d60d0ff8c623478",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover communities that match your interests"
+        },
+        "10/declaration/body/4/argument/1/1/3/3/1/expression/consequent": {
+          "type": "element",
+          "hash": "04f12bdbb84fc4633d60d0ff8c623478",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover communities that match your interests"
+        },
+        "7/declaration/body/0/argument/1/1/3/1": {
+          "type": "element",
+          "hash": "d7a82b12f73079d35623d400299bbff9",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Recommended for you"
+        },
+        "7/declaration/body/0/argument/1/1/3/1/3": {
+          "type": "element",
+          "hash": "80e1f1cc9872c43147f72c32d056ffbe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Recommended for you"
+        },
+        "7/declaration/body/0/argument/1/1/3/3": {
+          "type": "element",
+          "hash": "4a9eeaefc7130fca5b5491410ffdaaa7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover communities that match your interests"
+        },
+        "9/declaration/body/0/argument/1/1/3/1/3": {
+          "type": "element",
+          "hash": "80e1f1cc9872c43147f72c32d056ffbe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Recommended for you"
+        },
+        "9/declaration/body/0/argument/1/1/3/1/3/1": {
+          "type": "element",
+          "hash": "80e1f1cc9872c43147f72c32d056ffbe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Recommended for you"
+        },
+        "9/declaration/body/0/argument/1/1/3/3": {
+          "type": "element",
+          "hash": "4a9eeaefc7130fca5b5491410ffdaaa7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Discover communities that match your interests"
+        }
+      }
+    },
+    "components/section/home/TopEventsSection.tsx": {
+      "scopes": {
+        "4/declaration/body/0/argument/1/1/1": {
+          "type": "element",
+          "hash": "2df782d56e4f718de7a4bb977583eb01",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Top Events happening this week"
+        },
+        "5/declaration/body/0/argument/1/1/1": {
+          "type": "element",
+          "hash": "2df782d56e4f718de7a4bb977583eb01",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Top Events happening this week"
+        },
+        "5/declaration/body/0/argument/1/3/1-title": {
+          "type": "attribute",
+          "hash": "482df82ca9cc9f9d6de049b88d76d6a9",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Community Meetup"
         }
       }
     },
@@ -989,6 +2189,170 @@
           "skip": false,
           "overrides": {},
           "content": "<element:Sparkles></element:Sparkles> Generate Name"
+        }
+      }
+    },
+    "components/ui/carousel.tsx": {
+      "scopes": {
+        "19/0/init/0/body/1/argument/3": {
+          "type": "element",
+          "hash": "23328c6fe160a399086131987317f3ed",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Previous slide"
+        },
+        "21/0/init/0/body/1/argument/3": {
+          "type": "element",
+          "hash": "c76993309a88cf9f8a3a7fca7b5d7896",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Next slide"
+        }
+      }
+    },
+    "components/ui/floating-header.tsx": {
+      "scopes": {
+        "8/declaration/body/1/argument/1/1/3": {
+          "type": "element",
+          "hash": "8be592753c1854c1b4d320dc66e6df1a",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "Lingo Events"
+        },
+        "9/declaration/body/1/argument/1/1/1/3": {
+          "type": "element",
+          "hash": "196c58043fb8181ec090f65959ff5f5d",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "Lingo Events"
+        },
+        "9/declaration/body/1/argument/1/1/3": {
+          "type": "element",
+          "hash": "63dabf3a824812bb3e388462839c5d23",
+          "context": "",
+          "skip": true,
+          "overrides": {},
+          "content": "MapInly"
+        }
+      }
+    },
+    "components/ui/map.tsx": {
+      "scopes": {
+        "30/body/7/argument/0/1/expression/right-aria-label": {
+          "type": "attribute",
+          "hash": "9c94c5ef12644f51fd7098e8a4c84189",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Close popup"
+        },
+        "30/body/7/argument/0/1/expression/right/3": {
+          "type": "element",
+          "hash": "2c2e22f8424a1031de89063bd0022e16",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Close"
+        },
+        "39/body/7/argument/1/expression/right/1-label": {
+          "type": "attribute",
+          "hash": "20244d74cc44e8606cbf4bb8b4e16e4b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Zoom in"
+        },
+        "39/body/7/argument/1/expression/right/3-label": {
+          "type": "attribute",
+          "hash": "b723e467be28d8659338502c470821fd",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Zoom out"
+        },
+        "39/body/7/argument/5/expression/right/1-label": {
+          "type": "attribute",
+          "hash": "3c34facca63396d992079cdced25bd57",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Find my location"
+        },
+        "39/body/7/argument/7/expression/right/1-label": {
+          "type": "attribute",
+          "hash": "25744543e6ab31b6c27da8f37b9b3337",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Toggle fullscreen"
+        },
+        "40/body/3/argument-label": {
+          "type": "attribute",
+          "hash": "500ce9efd8d430ef876b16fef81e67b1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Reset bearing to north"
+        },
+        "42/body/9/argument/0/1/expression/right-aria-label": {
+          "type": "attribute",
+          "hash": "9c94c5ef12644f51fd7098e8a4c84189",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Close popup"
+        },
+        "42/body/9/argument/0/1/expression/right/3": {
+          "type": "element",
+          "hash": "2c2e22f8424a1031de89063bd0022e16",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Close"
+        }
+      }
+    },
+    "components/ui/section-heading.tsx": {
+      "scopes": {
+        "3/declaration/body/0/0/init/body/0/consequent/0/argument": {
+          "type": "element",
+          "hash": "3bd1d2b56a6fc67390663b092ac2ac99",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "View all"
+        },
+        "3/declaration/body/0/argument/3/1/expression/consequent": {
+          "type": "element",
+          "hash": "41c10c2fcc5bff758f95d36fd6255444",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "View all"
+        },
+        "6/declaration/body/0/0/init/body/1/consequent/0/argument": {
+          "type": "element",
+          "hash": "3bd1d2b56a6fc67390663b092ac2ac99",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "View all"
+        }
+      }
+    },
+    "components/ui/sheet.tsx": {
+      "scopes": {
+        "9/body/0/argument/3/3/expression/right/3": {
+          "type": "element",
+          "hash": "2c2e22f8424a1031de89063bd0022e16",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Close"
         }
       }
     }
