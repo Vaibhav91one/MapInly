@@ -6,7 +6,7 @@ import { motion } from "motion/react";
 import Link from "next/link";
 import { MenuIcon, Plus, LogOut, LayoutDashboard, LogIn, Loader2 } from "lucide-react";
 import { Sheet, SheetContent, SheetFooter } from "@/components/ui/sheet";
-import { Button, buttonVariants } from "@/components/ui/button";
+import { Button } from "@/components/ui/button";
 import { PillButton } from "@/components/custom";
 import {
   DropdownMenu,
@@ -19,12 +19,6 @@ import { createClient } from "@/utils/supabase/client";
 import type { User } from "@supabase/supabase-js";
 import { cn } from "@/lib/utils";
 import ScrollRotatingAsterisk from "../section/home/ScrollRotatingAsterisk";
-
-const defaultLinks = [
-  { label: "Events", href: "/events" },
-  { label: "Forums", href: "/forums" },
-  { label: "Dashboard", href: "/dashboard" },
-];
 
 export default function Navbar() {
   const [open, setOpen] = React.useState(false);
@@ -78,15 +72,15 @@ export default function Navbar() {
             </p>
           </Link>
           <div className="hidden items-center gap-2 lg:flex">
-            {defaultLinks.map((link) => (
-              <Link
-                key={link.href}
-                className="rounded-full px-4 py-2 font-regular text-base transition-colors duration-200 ease-in-out hover:bg-celadon/30 hover:text-fern"
-                href={link.href}
-              >
-                {link.label}
-              </Link>
-            ))}
+            <span className="rounded-full px-4 py-2 font-regular text-base text-muted-foreground">
+              Events
+            </span>
+            <span className="rounded-full px-4 py-2 font-regular text-base text-muted-foreground">
+              Forums
+            </span>
+            <span className="rounded-full px-4 py-2 font-regular text-base text-muted-foreground">
+              Dashboard
+            </span>
           </div>
           <div className="flex items-center gap-2">
             <div
@@ -148,25 +142,21 @@ export default function Navbar() {
                 side="left"
               >
                 <div className="grid gap-y-2 overflow-y-auto px-4 pt-12 pb-5">
-                  {defaultLinks.map((link) => (
-                    <Link
-                      key={link.href}
-                      className={buttonVariants({
-                        variant: "ghost",
-                        className: "justify-start",
-                      })}
-                      href={link.href}
-                      onClick={() => setOpen(false)}
-                    >
-                      {link.label}
-                    </Link>
-                  ))}
+                  <span className="rounded-full px-4 py-2 font-regular text-base text-muted-foreground">
+                    Events
+                  </span>
+                  <span className="rounded-full px-4 py-2 font-regular text-base text-muted-foreground">
+                    Forums
+                  </span>
+                  <span className="rounded-full px-4 py-2 font-regular text-base text-muted-foreground">
+                    Dashboard
+                  </span>
                 </div>
                 <SheetFooter>
                   <PillButton
                     text="Create"
                     icon={<Plus className="size-5" />}
-                    href="/events"
+                    href="/dashboard"
                     className="w-full justify-center bg-[fern] text-white hover:bg-fern/90 px-5 py-2.5"
                   />
                 </SheetFooter>

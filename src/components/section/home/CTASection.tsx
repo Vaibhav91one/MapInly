@@ -17,7 +17,7 @@ export default function CTASection() {
         <PillButton
           text="Start connecting with people"
           icon={<Users className="size-5 text-white" />}
-          href="/events"
+          href="/dashboard"
           className="bg-fern text-white"
         />
       </div>

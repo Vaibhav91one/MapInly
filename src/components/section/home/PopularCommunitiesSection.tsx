@@ -117,7 +117,7 @@ export default function PopularCommunitiesSection() {
             <PillButton
               text="Explore Communities"
               icon={<ArrowRight className="size-5 text-white" />}
-              href="/forums"
+              href="/dashboard"
               className="bg-fern text-white w-fit"
             />
           </div>
@@ -144,7 +144,7 @@ export default function PopularCommunitiesSection() {
                       logo={community.logo}
                       visitorCount={community.visitorCount}
                       description={community.description}
-                      joinHref={`/forums/${community.id}`}
+                      joinHref="/dashboard"
                     />
                   ))}
                 </div>
@@ -158,7 +158,7 @@ export default function PopularCommunitiesSection() {
                       logo={community.logo}
                       visitorCount={community.visitorCount}
                       description={community.description}
-                      joinHref={`/forums/${community.id}`}
+                      joinHref="/dashboard"
                     />
                   ))}
                 </div>
@@ -172,7 +172,7 @@ export default function PopularCommunitiesSection() {
                       logo={community.logo}
                       visitorCount={community.visitorCount}
                       description={community.description}
-                      joinHref={`/forums/${community.id}`}
+                      joinHref="/dashboard"
                     />
                   ))}
                 </div>
@@ -186,7 +186,7 @@ export default function PopularCommunitiesSection() {
                       logo={community.logo}
                       visitorCount={community.visitorCount}
                       description={community.description}
-                      joinHref={`/forums/${community.id}`}
+                      joinHref="/dashboard"
                     />
                   ))}
                 </div>

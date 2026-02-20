@@ -71,7 +71,7 @@ export default function HeroSection() {
         <PillButton
           text="Get Started"
           icon={<ArrowRight className="size-5 text-white hover:text-fern" />}
-          href="/events"
+          href="/dashboard"
           className="bg-fern text-white"
         />
       </div>

@@ -39,7 +39,7 @@ export default function ExploreMapSection() {
         <PillButton
           text="See All Events"
           icon={<ArrowRight className="size-5 text-white hover:text-fern" />}
-          href="/events"
+          href="/dashboard"
           className="bg-fern text-white"
         />
       </div>

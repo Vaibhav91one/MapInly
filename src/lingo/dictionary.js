@@ -1554,12 +1554,12 @@ export default {
         },
         "9/declaration/body/0/argument/5/1/7/7/7/5": {
           content: {
-            de: "Veranstaltungen",
-            en: "Events",
-            es: "Eventos",
-            fr: "Événements",
+            de: "Dashboard",
+            en: "Dashboard",
+            es: "Panel de control",
+            fr: "Tableau de bord",
           },
-          hash: "9d29c1006b93c4ed35860f4c1ccc4754",
+          hash: "a8bd7d4a57d651051cc7c786106d8fae",
         },
         "9/declaration/body/0/argument/5/1/7/7/7/7": {
           content: {
@@ -1583,6 +1583,63 @@ export default {
     },
     "components/layout/Navbar.tsx": {
       entries: {
+        "14/declaration/body/6/argument/1/1/3/1": {
+          content: {
+            de: "Veranstaltungen",
+            en: "Events",
+            es: "Eventos",
+            fr: "Événements",
+          },
+          hash: "73c71abc730e32e3ef0b154a69bd3869",
+        },
+        "14/declaration/body/6/argument/1/1/3/3": {
+          content: {
+            de: "Foren",
+            en: "Forums",
+            es: "Foros",
+            fr: "Forums",
+          },
+          hash: "9b5c3309bdac502b2ba0e4b387ed584b",
+        },
+        "14/declaration/body/6/argument/1/1/3/5": {
+          content: {
+            de: "Dashboard",
+            en: "Dashboard",
+            es: "Panel de control",
+            fr: "Tableau de bord",
+          },
+          hash: "76e4c837b3edfdf329436e5b3f4e1867",
+        },
+        "14/declaration/body/6/argument/1/1/5/1/1/expression/alternate/consequent/3/1/1":
+          {
+            content: {
+              de: "<element:LayoutDashboard></element:LayoutDashboard> Dashboard",
+              en: "<element:LayoutDashboard></element:LayoutDashboard> Dashboard",
+              es: "<element:LayoutDashboard></element:LayoutDashboard> Panel de control",
+              fr: "<element:LayoutDashboard></element:LayoutDashboard> Tableau de bord",
+            },
+            hash: "37bca3693ce806b11037e57df9906211",
+          },
+        "14/declaration/body/6/argument/1/1/5/1/1/expression/alternate/consequent/3/3":
+          {
+            content: {
+              de: "<element:LogOut></element:LogOut> Abmelden",
+              en: "<element:LogOut></element:LogOut> Sign Out",
+              es: "<element:LogOut></element:LogOut> Cerrar sesión",
+              fr: "<element:LogOut></element:LogOut> Se déconnecter",
+            },
+            hash: "42cf91113ec7db43e7a5c5ee5ced5aeb",
+          },
+        "14/declaration/body/6/argument/1/1/5/1/1/expression/consequent-aria-label":
+          {
+            content: {
+              de: "Lädt",
+              en: "Loading",
+              es: "Cargando",
+              fr: "Chargement",
+            },
+            hash: "c6bc8c380e83336c81a92594d3f23000",
+          },
         "14/declaration/body/6/argument/1/1/5/1/expression/alternate": {
           content: {
             de: "Anmelden",
@@ -1609,6 +1666,33 @@ export default {
             fr: "<element:LogOut></element:LogOut> Se déconnecter",
           },
           hash: "9168f418bbdac7d58efee234f078b8d3",
+        },
+        "14/declaration/body/6/argument/1/1/5/3/3/1/1": {
+          content: {
+            de: "Veranstaltungen",
+            en: "Events",
+            es: "Eventos",
+            fr: "Événements",
+          },
+          hash: "75aecebadaa3cf73a3e592ec8cc30637",
+        },
+        "14/declaration/body/6/argument/1/1/5/3/3/1/3": {
+          content: {
+            de: "Foren",
+            en: "Forums",
+            es: "Foros",
+            fr: "Forums",
+          },
+          hash: "62c1f55911488cfa4886a2c2d2f5bf06",
+        },
+        "14/declaration/body/6/argument/1/1/5/3/3/1/5": {
+          content: {
+            de: "Dashboard",
+            en: "Dashboard",
+            es: "Panel de control",
+            fr: "Tableau de bord",
+          },
+          hash: "1d2f196cf5722f6a5a89793cd92fb500",
         },
         "15/declaration/body/6/argument/1/1/5/1/1/expression/alternate/consequent/3/1/1":
           {

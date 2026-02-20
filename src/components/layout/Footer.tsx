@@ -7,12 +7,7 @@ import { containerClasses, sectionClasses } from "@/lib/ui-classes";
 import { PillButton } from "@/components/custom";
 import { ArrowRight, Grid2x2PlusIcon } from "lucide-react";
 
-const primaryNav = [
-  { label: "Home", href: "/" },
-  { label: "Events", href: "/events" },
-  { label: "Forums", href: "/forums" },
-  { label: "Dashboard", href: "/dashboard" },
-];
+const primaryNav = [{ label: "Home", href: "/" }];
 
 const socialLinks = [
   { label: "Twitter", href: "#" },
@@ -122,18 +117,6 @@ export default function Footer() {
                   className="text-md md:text-lg text-white/70 hover:text-white"
                 >
                   Home
-                </Link>
-                <Link
-                  href="/events"
-                  className="text-md md:text-lg text-white/70 hover:text-white"
-                >
-                  Events
-                </Link>
-                <Link
-                  href="/forums"
-                  className="text-md md:text-lg text-white/70 hover:text-white"
-                >
-                  Forums
                 </Link>
                 <Link
                   href="/dashboard"

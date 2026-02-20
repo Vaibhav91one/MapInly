@@ -82,7 +82,7 @@ export default function TopEventsSection() {
           }}
           button={{
             name: "View all",
-            href: "/events",
+            href: "/dashboard",
             icon: <ArrowRight className="size-5" />,
             className: "bg-fern text-white", 
           }}
